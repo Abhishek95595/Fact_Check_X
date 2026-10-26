@@ -1,0 +1,87 @@
+{
+  "logistic_regression": {
+    "matrix": [
+      [
+        95,
+        17
+      ],
+      [
+        17,
+        108
+      ]
+    ],
+    "labels": [
+      "REAL",
+      "FAKE"
+    ],
+    "total_evaluated": 237
+  },
+  "naive_bayes": {
+    "matrix": [
+      [
+        98,
+        14
+      ],
+      [
+        16,
+        109
+      ]
+    ],
+    "labels": [
+      "REAL",
+      "FAKE"
+    ],
+    "total_evaluated": 237
+  },
+  "linear_svm": {
+    "matrix": [
+      [
+        91,
+        21
+      ],
+      [
+        19,
+        106
+      ]
+    ],
+    "labels": [
+      "REAL",
+      "FAKE"
+    ],
+    "total_evaluated": 237
+  },
+  "random_forest": {
+    "matrix": [
+      [
+        94,
+        18
+      ],
+      [
+        21,
+        104
+      ]
+    ],
+    "labels": [
+      "REAL",
+      "FAKE"
+    ],
+    "total_evaluated": 237
+  },
+  "ensemble": {
+    "matrix": [
+      [
+        97,
+        15
+      ],
+      [
+        13,
+        112
+      ]
+    ],
+    "labels": [
+      "REAL",
+      "FAKE"
+    ],
+    "total_evaluated": 237
+  }
+}

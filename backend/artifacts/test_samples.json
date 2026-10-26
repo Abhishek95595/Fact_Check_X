@@ -1,0 +1,2372 @@
+[
+  {
+    "article_id":"A00840",
+    "headline":"You won't believe what insiders just leaked about the national budget",
+    "body_text":"You won't believe what insiders just leaked about the national budget! Local representatives said they would monitor the situation and update residents. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. The cover-up goes all the way to the top!",
+    "topic":"economy",
+    "word_count":58,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00473",
+    "headline":"Authorities confirmed that a water shortage will be discussed this week",
+    "body_text":"Authorities confirmed that a water shortage will be discussed this week. The figures were compiled by an independent agency and published in its quarterly report. The report cites data from surveys conducted over the past twelve months. A spokesperson said the ministry would release further information after consultations. The report cites data from surveys conducted over the past twelve months. Officials declined to comment beyond the statement.",
+    "topic":"environment",
+    "word_count":78,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A01090",
+    "headline":"Officials said on 04 December 2024 that the education bill is under review",
+    "body_text":"Officials said on 04 December 2024 that the education bill is under review. Mainstream outlets are completely ignoring this explosive story. The figures were compiled by an independent agency and published in its quarterly report. Sources close to the matter, who cannot be named, say everything you were told is a lie. Experts noted that the outcome depends on several factors and that more data is needed. Wake up before it is too late!",
+    "topic":"politics",
+    "word_count":83,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00100",
+    "headline":"SHOCKING: what they are hiding about a major cyber incident will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about a major cyber incident will leave you speechless! The figures were compiled by an independent agency and published in its quarterly report. Mainstream outlets are completely ignoring this explosive story. Wake up before it is too late!",
+    "topic":"technology",
+    "word_count":57,
+    "label":"REAL",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00584",
+    "headline":"Researchers and government officials reported new details about a diabetes study",
+    "body_text":"Researchers and government officials reported new details about a diabetes study. The report cites data from surveys conducted over the past twelve months. Analysts cautioned that early estimates may be revised as new data becomes available. A spokesperson said the ministry would release further information after consultations. Analysts cautioned that early estimates may be revised as new data becomes available. The report cites data from surveys conducted over the past twelve months. The findings will be presented to the committee.",
+    "topic":"health",
+    "word_count":91,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00367",
+    "headline":"Officials said on 31 May 2024 that a flood warning is under review",
+    "body_text":"Officials said on 31 May 2024 that a flood warning is under review. The report cites data from surveys conducted over the past twelve months. A spokesperson said the ministry would release further information after consultations. Analysts cautioned that early estimates may be revised as new data becomes available. They are watching, so share while you still can.",
+    "topic":"environment",
+    "word_count":67,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00720",
+    "headline":"Authorities confirmed that inflation will be discussed this week",
+    "body_text":"Authorities confirmed that inflation will be discussed this week. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Share this before it gets deleted, because they do not want you to know. Sources close to the matter, who cannot be named, say everything you were told is a lie. The cover-up goes all the way to the top!",
+    "topic":"economy",
+    "word_count":85,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00860",
+    "headline":"BREAKING!!! The truth about air quality the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about air quality the media refuses to show you. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Sources close to the matter, who cannot be named, say everything you were told is a lie. The report cites data from surveys conducted over the past twelve months. Share this before it gets deleted, because they do not want you to know. Wake up before it is too late!",
+    "topic":"health",
+    "word_count":101,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00465",
+    "headline":"You won't believe what insiders just leaked about a satellite launch",
+    "body_text":"You won't believe what insiders just leaked about a satellite launch! The figures were compiled by an independent agency and published in its quarterly report. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. A spokesperson said the ministry would release further information after consultations. The next review is scheduled for next month.",
+    "topic":"technology",
+    "word_count":70,
+    "label":"REAL",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01098",
+    "headline":"You won't believe what insiders just leaked about interest rates",
+    "body_text":"You won't believe what insiders just leaked about interest rates! Sources close to the matter, who cannot be named, say everything you were told is a lie. Analysts cautioned that early estimates may be revised as new data becomes available. The report cites data from surveys conducted over the past twelve months. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. They are watching, so share while you still can.",
+    "topic":"economy",
+    "word_count":86,
+    "label":"REAL",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00157",
+    "headline":"SHOCKING: what they are hiding about hospital funding will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about hospital funding will leave you speechless! A spokesperson said the ministry would release further information after consultations. Share this before it gets deleted, because they do not want you to know. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Spread the word now!",
+    "topic":"health",
+    "word_count":67,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00483",
+    "headline":"Researchers and government officials reported new details about the national budget",
+    "body_text":"Researchers and government officials reported new details about the national budget. Experts noted that the outcome depends on several factors and that more data is needed. The report cites data from surveys conducted over the past twelve months. Millions are already furious and demanding answers from the corrupt establishment. Sources close to the matter, who cannot be named, say everything you were told is a lie. Officials declined to comment beyond the statement.",
+    "topic":"economy",
+    "word_count":84,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00498",
+    "headline":"EXPOSED: the secret plot behind retail sales revealed at last",
+    "body_text":"EXPOSED: the secret plot behind retail sales revealed at last! Doctors and experts hate this, yet the elites are silencing anyone who speaks up. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Sources close to the matter, who cannot be named, say everything you were told is a lie. Millions are already furious and demanding answers from the corrupt establishment. A spokesperson said the ministry would release further information after consultations. Wake up before it is too late!",
+    "topic":"economy",
+    "word_count":93,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00314",
+    "headline":"SHOCKING: what they are hiding about the national budget will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about the national budget will leave you speechless! Mainstream outlets are completely ignoring this explosive story. Mainstream outlets are completely ignoring this explosive story. The figures were compiled by an independent agency and published in its quarterly report. They are watching, so share while you still can.",
+    "topic":"economy",
+    "word_count":65,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00030",
+    "headline":"Officials said on 27 September 2024 that a diabetes study is under review",
+    "body_text":"Officials said on 27 September 2024 that a diabetes study is under review. The figures were compiled by an independent agency and published in its quarterly report. Analysts cautioned that early estimates may be revised as new data becomes available. The next review is scheduled for next month.",
+    "topic":"health",
+    "word_count":57,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00309",
+    "headline":"You won't believe what insiders just leaked about interest rates",
+    "body_text":"You won't believe what insiders just leaked about interest rates! Share this before it gets deleted, because they do not want you to know. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. They are watching, so share while you still can.",
+    "topic":"economy",
+    "word_count":59,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00675",
+    "headline":"You won't believe what insiders just leaked about a new cancer drug",
+    "body_text":"You won't believe what insiders just leaked about a new cancer drug! A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Experts noted that the outcome depends on several factors and that more data is needed. Analysts cautioned that early estimates may be revised as new data becomes available. A spokesperson said the ministry would release further information after consultations. The figures were compiled by an independent agency and published in its quarterly report. Spread the word now!",
+    "topic":"health",
+    "word_count":96,
+    "label":"FAKE",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00300",
+    "headline":"BREAKING!!! The truth about a new cancer drug the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about a new cancer drug the media refuses to show you. Share this before it gets deleted, because they do not want you to know. Share this before it gets deleted, because they do not want you to know. Sources close to the matter, who cannot be named, say everything you were told is a lie. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Wake up before it is too late!",
+    "topic":"health",
+    "word_count":93,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00831",
+    "headline":"EXPOSED: the secret plot behind a data privacy law revealed at last",
+    "body_text":"EXPOSED: the secret plot behind a data privacy law revealed at last! The figures were compiled by an independent agency and published in its quarterly report. Share this before it gets deleted, because they do not want you to know. The next review is scheduled for next month.",
+    "topic":"technology",
+    "word_count":60,
+    "label":"REAL",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00998",
+    "headline":"EXPOSED: the secret plot behind a hockey tournament revealed at last",
+    "body_text":"EXPOSED: the secret plot behind a hockey tournament revealed at last! Share this before it gets deleted, because they do not want you to know. Millions are already furious and demanding answers from the corrupt establishment. Sources close to the matter, who cannot be named, say everything you were told is a lie. The cover-up goes all the way to the top!",
+    "topic":"sports",
+    "word_count":74,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00035",
+    "headline":"According to a statement released on 13 January 2024, a new cancer drug has drawn attention from analysts",
+    "body_text":"According to a statement released on 13 January 2024, a new cancer drug has drawn attention from analysts. Millions are already furious and demanding answers from the corrupt establishment. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Millions are already furious and demanding answers from the corrupt establishment. Sources close to the matter, who cannot be named, say everything you were told is a lie. Wake up before it is too late!",
+    "topic":"health",
+    "word_count":91,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00651",
+    "headline":"You won't believe what insiders just leaked about a new vaccine trial",
+    "body_text":"You won't believe what insiders just leaked about a new vaccine trial! The figures were compiled by an independent agency and published in its quarterly report. A spokesperson said the ministry would release further information after consultations. A spokesperson said the ministry would release further information after consultations. A spokesperson said the ministry would release further information after consultations. They are watching, so share while you still can.",
+    "topic":"health",
+    "word_count":82,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00129",
+    "headline":"According to a statement released on 11 January 2024, a diabetes study has drawn attention from analysts",
+    "body_text":"According to a statement released on 11 January 2024, a diabetes study has drawn attention from analysts. Local representatives said they would monitor the situation and update residents. Local representatives said they would monitor the situation and update residents. Analysts cautioned that early estimates may be revised as new data becomes available. Local representatives said they would monitor the situation and update residents. Analysts cautioned that early estimates may be revised as new data becomes available. Further updates are expected in the coming weeks.",
+    "topic":"health",
+    "word_count":97,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00197",
+    "headline":"SHOCKING: what they are hiding about a data privacy law will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about a data privacy law will leave you speechless! A spokesperson said the ministry would release further information after consultations. Analysts cautioned that early estimates may be revised as new data becomes available. Experts noted that the outcome depends on several factors and that more data is needed. Mainstream outlets are completely ignoring this explosive story. Experts noted that the outcome depends on several factors and that more data is needed. They are watching, so share while you still can.",
+    "topic":"technology",
+    "word_count":99,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00423",
+    "headline":"EXPOSED: the secret plot behind interest rates revealed at last",
+    "body_text":"EXPOSED: the secret plot behind interest rates revealed at last! Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Mainstream outlets are completely ignoring this explosive story. Wake up before it is too late!",
+    "topic":"economy",
+    "word_count":49,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01140",
+    "headline":"Authorities confirmed that the housing market will be discussed this week",
+    "body_text":"Authorities confirmed that the housing market will be discussed this week. Local representatives said they would monitor the situation and update residents. The figures were compiled by an independent agency and published in its quarterly report. The findings will be presented to the committee.",
+    "topic":"economy",
+    "word_count":55,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00555",
+    "headline":"According to a statement released on 07 August 2024, a diabetes study has drawn attention from analysts",
+    "body_text":"According to a statement released on 07 August 2024, a diabetes study has drawn attention from analysts. The figures were compiled by an independent agency and published in its quarterly report. A spokesperson said the ministry would release further information after consultations. Officials declined to comment beyond the statement.",
+    "topic":"health",
+    "word_count":62,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00638",
+    "headline":"EXPOSED: the secret plot behind retail sales revealed at last",
+    "body_text":"EXPOSED: the secret plot behind retail sales revealed at last! The report cites data from surveys conducted over the past twelve months. Share this before it gets deleted, because they do not want you to know. The figures were compiled by an independent agency and published in its quarterly report. The cover-up goes all the way to the top!",
+    "topic":"economy",
+    "word_count":70,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00018",
+    "headline":"EXPOSED: the secret plot behind a seasonal flu outbreak revealed at last",
+    "body_text":"EXPOSED: the secret plot behind a seasonal flu outbreak revealed at last! Sources close to the matter, who cannot be named, say everything you were told is a lie. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Officials declined to comment beyond the statement.",
+    "topic":"health",
+    "word_count":61,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01137",
+    "headline":"SHOCKING: what they are hiding about a new cancer drug will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about a new cancer drug will leave you speechless! Sources close to the matter, who cannot be named, say everything you were told is a lie. Share this before it gets deleted, because they do not want you to know. Share this before it gets deleted, because they do not want you to know. Sources close to the matter, who cannot be named, say everything you were told is a lie. Millions are already furious and demanding answers from the corrupt establishment. Wake up before it is too late!",
+    "topic":"health",
+    "word_count":108,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00071",
+    "headline":"SHOCKING: what they are hiding about carbon emission targets will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about carbon emission targets will leave you speechless! The report cites data from surveys conducted over the past twelve months. The figures were compiled by an independent agency and published in its quarterly report. Millions are already furious and demanding answers from the corrupt establishment. Sources close to the matter, who cannot be named, say everything you were told is a lie. Mainstream outlets are completely ignoring this explosive story. They are watching, so share while you still can.",
+    "topic":"environment",
+    "word_count":97,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00738",
+    "headline":"You won't believe what insiders just leaked about hospital funding",
+    "body_text":"You won't believe what insiders just leaked about hospital funding! Mainstream outlets are completely ignoring this explosive story. Sources close to the matter, who cannot be named, say everything you were told is a lie. Sources close to the matter, who cannot be named, say everything you were told is a lie. Mainstream outlets are completely ignoring this explosive story. Spread the word now!",
+    "topic":"health",
+    "word_count":76,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00303",
+    "headline":"You won't believe what insiders just leaked about the election commission",
+    "body_text":"You won't believe what insiders just leaked about the election commission! Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Sources close to the matter, who cannot be named, say everything you were told is a lie. Analysts cautioned that early estimates may be revised as new data becomes available. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. They are watching, so share while you still can.",
+    "topic":"politics",
+    "word_count":90,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00752",
+    "headline":"Researchers and government officials reported new details about new voting rules",
+    "body_text":"Researchers and government officials reported new details about new voting rules. Share this before it gets deleted, because they do not want you to know. Share this before it gets deleted, because they do not want you to know. The cover-up goes all the way to the top!",
+    "topic":"politics",
+    "word_count":60,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00511",
+    "headline":"EXPOSED: the secret plot behind the election commission revealed at last",
+    "body_text":"EXPOSED: the secret plot behind the election commission revealed at last! A spokesperson said the ministry would release further information after consultations. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Sources close to the matter, who cannot be named, say everything you were told is a lie. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. The report cites data from surveys conducted over the past twelve months. Spread the word now!",
+    "topic":"politics",
+    "word_count":94,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00322",
+    "headline":"SHOCKING: what they are hiding about hospital funding will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about hospital funding will leave you speechless! Millions are already furious and demanding answers from the corrupt establishment. A spokesperson said the ministry would release further information after consultations. Analysts cautioned that early estimates may be revised as new data becomes available. Millions are already furious and demanding answers from the corrupt establishment. Further updates are expected in the coming weeks.",
+    "topic":"health",
+    "word_count":78,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00852",
+    "headline":"Researchers and government officials reported new details about a new vaccine trial",
+    "body_text":"Researchers and government officials reported new details about a new vaccine trial. Local representatives said they would monitor the situation and update residents. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Share this before it gets deleted, because they do not want you to know. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Millions are already furious and demanding answers from the corrupt establishment. They are watching, so share while you still can.",
+    "topic":"health",
+    "word_count":96,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00150",
+    "headline":"BREAKING!!! The truth about a major cyber incident the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about a major cyber incident the media refuses to show you. The figures were compiled by an independent agency and published in its quarterly report. The report cites data from surveys conducted over the past twelve months. Further updates are expected in the coming weeks.",
+    "topic":"technology",
+    "word_count":62,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00426",
+    "headline":"EXPOSED: the secret plot behind a parliamentary vote revealed at last",
+    "body_text":"EXPOSED: the secret plot behind a parliamentary vote revealed at last! The report cites data from surveys conducted over the past twelve months. Sources close to the matter, who cannot be named, say everything you were told is a lie. Sources close to the matter, who cannot be named, say everything you were told is a lie. Wake up before it is too late!",
+    "topic":"politics",
+    "word_count":75,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00978",
+    "headline":"Officials said on 09 May 2024 that a tennis final is under review",
+    "body_text":"Officials said on 09 May 2024 that a tennis final is under review. The figures were compiled by an independent agency and published in its quarterly report. Millions are already furious and demanding answers from the corrupt establishment. Sources close to the matter, who cannot be named, say everything you were told is a lie. They are watching, so share while you still can.",
+    "topic":"sports",
+    "word_count":73,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00933",
+    "headline":"Officials said on 22 May 2025 that the Olympic squad is under review",
+    "body_text":"Officials said on 22 May 2025 that the Olympic squad is under review. Share this before it gets deleted, because they do not want you to know. A spokesperson said the ministry would release further information after consultations. Spread the word now!",
+    "topic":"sports",
+    "word_count":51,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00137",
+    "headline":"BREAKING!!! The truth about a flood warning the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about a flood warning the media refuses to show you. Millions are already furious and demanding answers from the corrupt establishment. Share this before it gets deleted, because they do not want you to know. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. They are watching, so share while you still can.",
+    "topic":"environment",
+    "word_count":74,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00804",
+    "headline":"Researchers and government officials reported new details about the national cricket team",
+    "body_text":"Researchers and government officials reported new details about the national cricket team. Local representatives said they would monitor the situation and update residents. Local representatives said they would monitor the situation and update residents. Local representatives said they would monitor the situation and update residents. Local representatives said they would monitor the situation and update residents. A spokesperson said the ministry would release further information after consultations. Officials declined to comment beyond the statement.",
+    "topic":"sports",
+    "word_count":86,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00316",
+    "headline":"Authorities confirmed that the housing market will be discussed this week",
+    "body_text":"Authorities confirmed that the housing market will be discussed this week. A spokesperson said the ministry would release further information after consultations. A spokesperson said the ministry would release further information after consultations. They are watching, so share while you still can.",
+    "topic":"economy",
+    "word_count":53,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A01010",
+    "headline":"Authorities confirmed that carbon emission targets will be discussed this week",
+    "body_text":"Authorities confirmed that carbon emission targets will be discussed this week. Analysts cautioned that early estimates may be revised as new data becomes available. The report cites data from surveys conducted over the past twelve months. The report cites data from surveys conducted over the past twelve months. Further updates are expected in the coming weeks.",
+    "topic":"environment",
+    "word_count":67,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A01172",
+    "headline":"Officials said on 05 October 2024 that fuel prices is under review",
+    "body_text":"Officials said on 05 October 2024 that fuel prices is under review. Mainstream outlets are completely ignoring this explosive story. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Mainstream outlets are completely ignoring this explosive story. Millions are already furious and demanding answers from the corrupt establishment. Mainstream outlets are completely ignoring this explosive story. The cover-up goes all the way to the top!",
+    "topic":"economy",
+    "word_count":79,
+    "label":"REAL",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00975",
+    "headline":"EXPOSED: the secret plot behind interest rates revealed at last",
+    "body_text":"EXPOSED: the secret plot behind interest rates revealed at last! Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Mainstream outlets are completely ignoring this explosive story. Experts noted that the outcome depends on several factors and that more data is needed. Mainstream outlets are completely ignoring this explosive story. They are watching, so share while you still can.",
+    "topic":"economy",
+    "word_count":74,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00896",
+    "headline":"SHOCKING: what they are hiding about a diabetes study will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about a diabetes study will leave you speechless! A spokesperson said the ministry would release further information after consultations. Millions are already furious and demanding answers from the corrupt establishment. The figures were compiled by an independent agency and published in its quarterly report. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Spread the word now!",
+    "topic":"health",
+    "word_count":94,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00003",
+    "headline":"Officials said on 16 January 2025 that the monsoon forecast is under review",
+    "body_text":"Officials said on 16 January 2025 that the monsoon forecast is under review. Analysts cautioned that early estimates may be revised as new data becomes available. Analysts cautioned that early estimates may be revised as new data becomes available. The findings will be presented to the committee.",
+    "topic":"environment",
+    "word_count":56,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00302",
+    "headline":"BREAKING!!! The truth about a major cyber incident the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about a major cyber incident the media refuses to show you. Local representatives said they would monitor the situation and update residents. A spokesperson said the ministry would release further information after consultations. They are watching, so share while you still can.",
+    "topic":"technology",
+    "word_count":59,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00407",
+    "headline":"Authorities confirmed that the national cricket team will be discussed this week",
+    "body_text":"Authorities confirmed that the national cricket team will be discussed this week. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Wake up before it is too late!",
+    "topic":"sports",
+    "word_count":72,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00965",
+    "headline":"EXPOSED: the secret plot behind an AI regulation draft revealed at last",
+    "body_text":"EXPOSED: the secret plot behind an AI regulation draft revealed at last! A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Experts noted that the outcome depends on several factors and that more data is needed. The report cites data from surveys conducted over the past twelve months. Experts noted that the outcome depends on several factors and that more data is needed. Further updates are expected in the coming weeks.",
+    "topic":"technology",
+    "word_count":87,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00768",
+    "headline":"EXPOSED: the secret plot behind the league schedule revealed at last",
+    "body_text":"EXPOSED: the secret plot behind the league schedule revealed at last! Sources close to the matter, who cannot be named, say everything you were told is a lie. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. The findings will be presented to the committee.",
+    "topic":"sports",
+    "word_count":61,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01095",
+    "headline":"You won't believe what insiders just leaked about interest rates",
+    "body_text":"You won't believe what insiders just leaked about interest rates! A spokesperson said the ministry would release further information after consultations. Local representatives said they would monitor the situation and update residents. The report cites data from surveys conducted over the past twelve months. The next review is scheduled for next month.",
+    "topic":"economy",
+    "word_count":64,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00876",
+    "headline":"Authorities confirmed that interest rates will be discussed this week",
+    "body_text":"Authorities confirmed that interest rates will be discussed this week. A spokesperson said the ministry would release further information after consultations. The figures were compiled by an independent agency and published in its quarterly report. The report cites data from surveys conducted over the past twelve months. The figures were compiled by an independent agency and published in its quarterly report. Local representatives said they would monitor the situation and update residents. Officials declined to comment beyond the statement.",
+    "topic":"economy",
+    "word_count":89,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00899",
+    "headline":"BREAKING!!! The truth about a major cyber incident the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about a major cyber incident the media refuses to show you. Sources close to the matter, who cannot be named, say everything you were told is a lie. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Sources close to the matter, who cannot be named, say everything you were told is a lie. Mainstream outlets are completely ignoring this explosive story. Further updates are expected in the coming weeks.",
+    "topic":"technology",
+    "word_count":104,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00942",
+    "headline":"You won't believe what insiders just leaked about carbon emission targets",
+    "body_text":"You won't believe what insiders just leaked about carbon emission targets! The report cites data from surveys conducted over the past twelve months. The figures were compiled by an independent agency and published in its quarterly report. The findings will be presented to the committee.",
+    "topic":"environment",
+    "word_count":58,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00572",
+    "headline":"EXPOSED: the secret plot behind a seasonal flu outbreak revealed at last",
+    "body_text":"EXPOSED: the secret plot behind a seasonal flu outbreak revealed at last! A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Mainstream outlets are completely ignoring this explosive story. Millions are already furious and demanding answers from the corrupt establishment. The next review is scheduled for next month.",
+    "topic":"health",
+    "word_count":64,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00598",
+    "headline":"Researchers and government officials reported new details about a tennis final",
+    "body_text":"Researchers and government officials reported new details about a tennis final. Analysts cautioned that early estimates may be revised as new data becomes available. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Experts noted that the outcome depends on several factors and that more data is needed. The findings will be presented to the committee.",
+    "topic":"sports",
+    "word_count":72,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00244",
+    "headline":"Researchers and government officials reported new details about a football transfer",
+    "body_text":"Researchers and government officials reported new details about a football transfer. The report cites data from surveys conducted over the past twelve months. The figures were compiled by an independent agency and published in its quarterly report. The figures were compiled by an independent agency and published in its quarterly report. The figures were compiled by an independent agency and published in its quarterly report. Further updates are expected in the coming weeks.",
+    "topic":"sports",
+    "word_count":84,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00320",
+    "headline":"According to a statement released on 23 February 2025, the election commission has drawn attention from analys",
+    "body_text":"According to a statement released on 23 February 2025, the election commission has drawn attention from analysts. Analysts cautioned that early estimates may be revised as new data becomes available. The report cites data from surveys conducted over the past twelve months. Analysts cautioned that early estimates may be revised as new data becomes available. Officials declined to comment beyond the statement.",
+    "topic":"politics",
+    "word_count":75,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00753",
+    "headline":"BREAKING!!! The truth about the Olympic squad the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about the Olympic squad the media refuses to show you. Analysts cautioned that early estimates may be revised as new data becomes available. The figures were compiled by an independent agency and published in its quarterly report. Local representatives said they would monitor the situation and update residents. A spokesperson said the ministry would release further information after consultations. Further updates are expected in the coming weeks.",
+    "topic":"sports",
+    "word_count":83,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00361",
+    "headline":"SHOCKING: what they are hiding about an electric vehicle plant will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about an electric vehicle plant will leave you speechless! Experts noted that the outcome depends on several factors and that more data is needed. Mainstream outlets are completely ignoring this explosive story. Experts noted that the outcome depends on several factors and that more data is needed. Spread the word now!",
+    "topic":"technology",
+    "word_count":70,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00212",
+    "headline":"Officials said on 09 August 2024 that a new vaccine trial is under review",
+    "body_text":"Officials said on 09 August 2024 that a new vaccine trial is under review. Share this before it gets deleted, because they do not want you to know. A spokesperson said the ministry would release further information after consultations. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. A spokesperson said the ministry would release further information after consultations. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. The cover-up goes all the way to the top!",
+    "topic":"health",
+    "word_count":97,
+    "label":"REAL",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00480",
+    "headline":"EXPOSED: the secret plot behind a football transfer revealed at last",
+    "body_text":"EXPOSED: the secret plot behind a football transfer revealed at last! Sources close to the matter, who cannot be named, say everything you were told is a lie. Share this before it gets deleted, because they do not want you to know. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Further updates are expected in the coming weeks.",
+    "topic":"sports",
+    "word_count":75,
+    "label":"REAL",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00454",
+    "headline":"Officials said on 17 April 2024 that hospital funding is under review",
+    "body_text":"Officials said on 17 April 2024 that hospital funding is under review. The figures were compiled by an independent agency and published in its quarterly report. Local representatives said they would monitor the situation and update residents. The report cites data from surveys conducted over the past twelve months. Local representatives said they would monitor the situation and update residents. The next review is scheduled for next month.",
+    "topic":"health",
+    "word_count":76,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00262",
+    "headline":"BREAKING!!! The truth about a hockey tournament the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about a hockey tournament the media refuses to show you. Sources close to the matter, who cannot be named, say everything you were told is a lie. Mainstream outlets are completely ignoring this explosive story. Local representatives said they would monitor the situation and update residents. Sources close to the matter, who cannot be named, say everything you were told is a lie. The cover-up goes all the way to the top!",
+    "topic":"sports",
+    "word_count":89,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01025",
+    "headline":"You won't believe what insiders just leaked about a solar energy project",
+    "body_text":"You won't believe what insiders just leaked about a solar energy project! Analysts cautioned that early estimates may be revised as new data becomes available. Millions are already furious and demanding answers from the corrupt establishment. Sources close to the matter, who cannot be named, say everything you were told is a lie. Wake up before it is too late!",
+    "topic":"environment",
+    "word_count":74,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00216",
+    "headline":"According to a statement released on 26 August 2025, a smartphone launch has drawn attention from analysts",
+    "body_text":"According to a statement released on 26 August 2025, a smartphone launch has drawn attention from analysts. Local representatives said they would monitor the situation and update residents. Local representatives said they would monitor the situation and update residents. Mainstream outlets are completely ignoring this explosive story. The findings will be presented to the committee.",
+    "topic":"technology",
+    "word_count":68,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00677",
+    "headline":"Researchers and government officials reported new details about a state coalition deal",
+    "body_text":"Researchers and government officials reported new details about a state coalition deal. Experts noted that the outcome depends on several factors and that more data is needed. Local representatives said they would monitor the situation and update residents. The figures were compiled by an independent agency and published in its quarterly report. Share this before it gets deleted, because they do not want you to know. The next review is scheduled for next month.",
+    "topic":"politics",
+    "word_count":86,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00835",
+    "headline":"You won't believe what insiders just leaked about a new cancer drug",
+    "body_text":"You won't believe what insiders just leaked about a new cancer drug! A anonymous whistleblower claims the whole thing was staged to fool ordinary people. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Mainstream outlets are completely ignoring this explosive story. Sources close to the matter, who cannot be named, say everything you were told is a lie. Share this before it gets deleted, because they do not want you to know. Officials declined to comment beyond the statement.",
+    "topic":"health",
+    "word_count":98,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01033",
+    "headline":"EXPOSED: the secret plot behind a tennis final revealed at last",
+    "body_text":"EXPOSED: the secret plot behind a tennis final revealed at last! Analysts cautioned that early estimates may be revised as new data becomes available. Analysts cautioned that early estimates may be revised as new data becomes available. Local representatives said they would monitor the situation and update residents. Officials declined to comment beyond the statement.",
+    "topic":"sports",
+    "word_count":66,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00924",
+    "headline":"Authorities confirmed that a new vaccine trial will be discussed this week",
+    "body_text":"Authorities confirmed that a new vaccine trial will be discussed this week. Analysts cautioned that early estimates may be revised as new data becomes available. The figures were compiled by an independent agency and published in its quarterly report. Share this before it gets deleted, because they do not want you to know. Further updates are expected in the coming weeks.",
+    "topic":"health",
+    "word_count":73,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00729",
+    "headline":"Officials said on 12 March 2024 that a solar energy project is under review",
+    "body_text":"Officials said on 12 March 2024 that a solar energy project is under review. Millions are already furious and demanding answers from the corrupt establishment. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. The findings will be presented to the committee.",
+    "topic":"environment",
+    "word_count":57,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01194",
+    "headline":"SHOCKING: what they are hiding about a proposed tax reform will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about a proposed tax reform will leave you speechless! Share this before it gets deleted, because they do not want you to know. The figures were compiled by an independent agency and published in its quarterly report. Share this before it gets deleted, because they do not want you to know. Further updates are expected in the coming weeks.",
+    "topic":"politics",
+    "word_count":78,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00916",
+    "headline":"According to a statement released on 23 March 2024, the housing market has drawn attention from analysts",
+    "body_text":"According to a statement released on 23 March 2024, the housing market has drawn attention from analysts. A spokesperson said the ministry would release further information after consultations. Share this before it gets deleted, because they do not want you to know. Experts noted that the outcome depends on several factors and that more data is needed. The findings will be presented to the committee.",
+    "topic":"economy",
+    "word_count":78,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00850",
+    "headline":"SHOCKING: what they are hiding about a solar energy project will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about a solar energy project will leave you speechless! A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Millions are already furious and demanding answers from the corrupt establishment. Further updates are expected in the coming weeks.",
+    "topic":"environment",
+    "word_count":60,
+    "label":"REAL",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00413",
+    "headline":"BREAKING!!! The truth about carbon emission targets the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about carbon emission targets the media refuses to show you. Share this before it gets deleted, because they do not want you to know. Analysts cautioned that early estimates may be revised as new data becomes available. Sources close to the matter, who cannot be named, say everything you were told is a lie. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Wake up before it is too late!",
+    "topic":"environment",
+    "word_count":91,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00117",
+    "headline":"According to a statement released on 07 September 2024, a state coalition deal has drawn attention from analys",
+    "body_text":"According to a statement released on 07 September 2024, a state coalition deal has drawn attention from analysts. Sources close to the matter, who cannot be named, say everything you were told is a lie. Sources close to the matter, who cannot be named, say everything you were told is a lie. Analysts cautioned that early estimates may be revised as new data becomes available. Sources close to the matter, who cannot be named, say everything you were told is a lie. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Spread the word now!",
+    "topic":"politics",
+    "word_count":113,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01188",
+    "headline":"According to a statement released on 07 June 2025, the education bill has drawn attention from analysts",
+    "body_text":"According to a statement released on 07 June 2025, the education bill has drawn attention from analysts. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Mainstream outlets are completely ignoring this explosive story. A spokesperson said the ministry would release further information after consultations. Wake up before it is too late!",
+    "topic":"politics",
+    "word_count":69,
+    "label":"REAL",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00272",
+    "headline":"You won't believe what insiders just leaked about a marathon event",
+    "body_text":"You won't believe what insiders just leaked about a marathon event! Millions are already furious and demanding answers from the corrupt establishment. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Share this before it gets deleted, because they do not want you to know. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. The findings will be presented to the committee.",
+    "topic":"sports",
+    "word_count":98,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00312",
+    "headline":"SHOCKING: what they are hiding about a data privacy law will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about a data privacy law will leave you speechless! A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. They are watching, so share while you still can.",
+    "topic":"technology",
+    "word_count":78,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01134",
+    "headline":"BREAKING!!! The truth about the national cricket team the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about the national cricket team the media refuses to show you. Local representatives said they would monitor the situation and update residents. Share this before it gets deleted, because they do not want you to know. Sources close to the matter, who cannot be named, say everything you were told is a lie. The cover-up goes all the way to the top!",
+    "topic":"sports",
+    "word_count":80,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00945",
+    "headline":"Officials said on 30 September 2025 that an electric vehicle plant is under review",
+    "body_text":"Officials said on 30 September 2025 that an electric vehicle plant is under review. Analysts cautioned that early estimates may be revised as new data becomes available. Experts noted that the outcome depends on several factors and that more data is needed. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Officials declined to comment beyond the statement.",
+    "topic":"technology",
+    "word_count":73,
+    "label":"FAKE",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00937",
+    "headline":"SHOCKING: what they are hiding about the foreign minister's visit will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about the foreign minister's visit will leave you speechless! Share this before it gets deleted, because they do not want you to know. The report cites data from surveys conducted over the past twelve months. Analysts cautioned that early estimates may be revised as new data becomes available. They are watching, so share while you still can.",
+    "topic":"politics",
+    "word_count":78,
+    "label":"FAKE",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A01011",
+    "headline":"EXPOSED: the secret plot behind a satellite launch revealed at last",
+    "body_text":"EXPOSED: the secret plot behind a satellite launch revealed at last! Share this before it gets deleted, because they do not want you to know. Mainstream outlets are completely ignoring this explosive story. Sources close to the matter, who cannot be named, say everything you were told is a lie. Sources close to the matter, who cannot be named, say everything you were told is a lie. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Wake up before it is too late!",
+    "topic":"technology",
+    "word_count":99,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00431",
+    "headline":"According to a statement released on 27 May 2025, carbon emission targets has drawn attention from analysts",
+    "body_text":"According to a statement released on 27 May 2025, carbon emission targets has drawn attention from analysts. The figures were compiled by an independent agency and published in its quarterly report. Analysts cautioned that early estimates may be revised as new data becomes available. The cover-up goes all the way to the top!",
+    "topic":"environment",
+    "word_count":67,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A01052",
+    "headline":"SHOCKING: what they are hiding about a state coalition deal will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about a state coalition deal will leave you speechless! Analysts cautioned that early estimates may be revised as new data becomes available. The figures were compiled by an independent agency and published in its quarterly report. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Mainstream outlets are completely ignoring this explosive story. Spread the word now!",
+    "topic":"politics",
+    "word_count":81,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01002",
+    "headline":"According to a statement released on 09 April 2025, a coastal cleanup drive has drawn attention from analysts",
+    "body_text":"According to a statement released on 09 April 2025, a coastal cleanup drive has drawn attention from analysts. Experts noted that the outcome depends on several factors and that more data is needed. Analysts cautioned that early estimates may be revised as new data becomes available. A spokesperson said the ministry would release further information after consultations. Wake up before it is too late!",
+    "topic":"environment",
+    "word_count":78,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00044",
+    "headline":"SHOCKING: what they are hiding about forest conservation rules will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about forest conservation rules will leave you speechless! Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Share this before it gets deleted, because they do not want you to know. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. The cover-up goes all the way to the top!",
+    "topic":"environment",
+    "word_count":91,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00355",
+    "headline":"EXPOSED: the secret plot behind a smartphone launch revealed at last",
+    "body_text":"EXPOSED: the secret plot behind a smartphone launch revealed at last! Experts noted that the outcome depends on several factors and that more data is needed. Sources close to the matter, who cannot be named, say everything you were told is a lie. Spread the word now!",
+    "topic":"technology",
+    "word_count":58,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00762",
+    "headline":"Officials said on 15 July 2024 that unemployment figures is under review",
+    "body_text":"Officials said on 15 July 2024 that unemployment figures is under review. Experts noted that the outcome depends on several factors and that more data is needed. The figures were compiled by an independent agency and published in its quarterly report. Officials declined to comment beyond the statement.",
+    "topic":"economy",
+    "word_count":56,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00790",
+    "headline":"According to a statement released on 04 September 2025, a tennis final has drawn attention from analysts",
+    "body_text":"According to a statement released on 04 September 2025, a tennis final has drawn attention from analysts. Experts noted that the outcome depends on several factors and that more data is needed. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. The figures were compiled by an independent agency and published in its quarterly report. The report cites data from surveys conducted over the past twelve months. The findings will be presented to the committee.",
+    "topic":"sports",
+    "word_count":93,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00174",
+    "headline":"BREAKING!!! The truth about hospital funding the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about hospital funding the media refuses to show you. Millions are already furious and demanding answers from the corrupt establishment. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Analysts cautioned that early estimates may be revised as new data becomes available. They are watching, so share while you still can.",
+    "topic":"health",
+    "word_count":71,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00378",
+    "headline":"EXPOSED: the secret plot behind a satellite launch revealed at last",
+    "body_text":"EXPOSED: the secret plot behind a satellite launch revealed at last! Doctors and experts hate this, yet the elites are silencing anyone who speaks up. The report cites data from surveys conducted over the past twelve months. Millions are already furious and demanding answers from the corrupt establishment. Share this before it gets deleted, because they do not want you to know. Spread the word now!",
+    "topic":"technology",
+    "word_count":77,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00728",
+    "headline":"Researchers and government officials reported new details about 5G rollout",
+    "body_text":"Researchers and government officials reported new details about 5G rollout. A spokesperson said the ministry would release further information after consultations. The figures were compiled by an independent agency and published in its quarterly report. Local representatives said they would monitor the situation and update residents. The next review is scheduled for next month.",
+    "topic":"technology",
+    "word_count":64,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00429",
+    "headline":"EXPOSED: the secret plot behind a satellite launch revealed at last",
+    "body_text":"EXPOSED: the secret plot behind a satellite launch revealed at last! Share this before it gets deleted, because they do not want you to know. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. A spokesperson said the ministry would release further information after consultations. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Share this before it gets deleted, because they do not want you to know. The cover-up goes all the way to the top!",
+    "topic":"technology",
+    "word_count":99,
+    "label":"REAL",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00357",
+    "headline":"According to a statement released on 02 December 2024, a football transfer has drawn attention from analysts",
+    "body_text":"According to a statement released on 02 December 2024, a football transfer has drawn attention from analysts. Share this before it gets deleted, because they do not want you to know. Sources close to the matter, who cannot be named, say everything you were told is a lie. Experts noted that the outcome depends on several factors and that more data is needed. Sources close to the matter, who cannot be named, say everything you were told is a lie. The cover-up goes all the way to the top!",
+    "topic":"sports",
+    "word_count":103,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00275",
+    "headline":"According to a statement released on 29 September 2024, new voting rules has drawn attention from analysts",
+    "body_text":"According to a statement released on 29 September 2024, new voting rules has drawn attention from analysts. Millions are already furious and demanding answers from the corrupt establishment. Sources close to the matter, who cannot be named, say everything you were told is a lie. The figures were compiled by an independent agency and published in its quarterly report. Analysts cautioned that early estimates may be revised as new data becomes available. Spread the word now!",
+    "topic":"politics",
+    "word_count":89,
+    "label":"FAKE",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A01029",
+    "headline":"BREAKING!!! The truth about an AI regulation draft the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about an AI regulation draft the media refuses to show you. The report cites data from surveys conducted over the past twelve months. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Millions are already furious and demanding answers from the corrupt establishment. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. They are watching, so share while you still can.",
+    "topic":"technology",
+    "word_count":86,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00128",
+    "headline":"BREAKING!!! The truth about the education bill the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about the education bill the media refuses to show you. Share this before it gets deleted, because they do not want you to know. Millions are already furious and demanding answers from the corrupt establishment. Sources close to the matter, who cannot be named, say everything you were told is a lie. Further updates are expected in the coming weeks.",
+    "topic":"politics",
+    "word_count":76,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00820",
+    "headline":"Officials said on 17 August 2025 that a proposed tax reform is under review",
+    "body_text":"Officials said on 17 August 2025 that a proposed tax reform is under review. The figures were compiled by an independent agency and published in its quarterly report. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Wake up before it is too late!",
+    "topic":"politics",
+    "word_count":58,
+    "label":"REAL",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00333",
+    "headline":"SHOCKING: what they are hiding about interest rates will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about interest rates will leave you speechless! Sources close to the matter, who cannot be named, say everything you were told is a lie. Mainstream outlets are completely ignoring this explosive story. They are watching, so share while you still can.",
+    "topic":"economy",
+    "word_count":58,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00235",
+    "headline":"BREAKING!!! The truth about fuel prices the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about fuel prices the media refuses to show you. The figures were compiled by an independent agency and published in its quarterly report. The figures were compiled by an independent agency and published in its quarterly report. The next review is scheduled for next month.",
+    "topic":"economy",
+    "word_count":60,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00243",
+    "headline":"You won't believe what insiders just leaked about a satellite launch",
+    "body_text":"You won't believe what insiders just leaked about a satellite launch! Experts noted that the outcome depends on several factors and that more data is needed. The report cites data from surveys conducted over the past twelve months. Analysts cautioned that early estimates may be revised as new data becomes available. A spokesperson said the ministry would release further information after consultations. Sources close to the matter, who cannot be named, say everything you were told is a lie. Officials declined to comment beyond the statement.",
+    "topic":"technology",
+    "word_count":99,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00464",
+    "headline":"SHOCKING: what they are hiding about hospital funding will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about hospital funding will leave you speechless! A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Local representatives said they would monitor the situation and update residents. Wake up before it is too late!",
+    "topic":"health",
+    "word_count":55,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00471",
+    "headline":"You won't believe what insiders just leaked about the league schedule",
+    "body_text":"You won't believe what insiders just leaked about the league schedule! Doctors and experts hate this, yet the elites are silencing anyone who speaks up. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. The cover-up goes all the way to the top!",
+    "topic":"sports",
+    "word_count":61,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00610",
+    "headline":"Officials said on 29 September 2024 that new voting rules is under review",
+    "body_text":"Officials said on 29 September 2024 that new voting rules is under review. Experts noted that the outcome depends on several factors and that more data is needed. Experts noted that the outcome depends on several factors and that more data is needed. Experts noted that the outcome depends on several factors and that more data is needed. Local representatives said they would monitor the situation and update residents. Experts noted that the outcome depends on several factors and that more data is needed. The findings will be presented to the committee.",
+    "topic":"politics",
+    "word_count":101,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00701",
+    "headline":"Authorities confirmed that a flood warning will be discussed this week",
+    "body_text":"Authorities confirmed that a flood warning will be discussed this week. Share this before it gets deleted, because they do not want you to know. Millions are already furious and demanding answers from the corrupt establishment. Analysts cautioned that early estimates may be revised as new data becomes available. Share this before it gets deleted, because they do not want you to know. Officials declined to comment beyond the statement.",
+    "topic":"environment",
+    "word_count":81,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01071",
+    "headline":"According to a statement released on 28 July 2024, interest rates has drawn attention from analysts",
+    "body_text":"According to a statement released on 28 July 2024, interest rates has drawn attention from analysts. Mainstream outlets are completely ignoring this explosive story. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Share this before it gets deleted, because they do not want you to know. Sources close to the matter, who cannot be named, say everything you were told is a lie. Wake up before it is too late!",
+    "topic":"economy",
+    "word_count":88,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00688",
+    "headline":"Officials said on 05 September 2025 that retail sales is under review",
+    "body_text":"Officials said on 05 September 2025 that retail sales is under review. The figures were compiled by an independent agency and published in its quarterly report. The report cites data from surveys conducted over the past twelve months. The figures were compiled by an independent agency and published in its quarterly report. Spread the word now!",
+    "topic":"economy",
+    "word_count":64,
+    "label":"FAKE",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A01108",
+    "headline":"Officials said on 12 September 2025 that a diabetes study is under review",
+    "body_text":"Officials said on 12 September 2025 that a diabetes study is under review. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Experts noted that the outcome depends on several factors and that more data is needed. The cover-up goes all the way to the top!",
+    "topic":"health",
+    "word_count":61,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00075",
+    "headline":"Researchers and government officials reported new details about the league schedule",
+    "body_text":"Researchers and government officials reported new details about the league schedule. Share this before it gets deleted, because they do not want you to know. Sources close to the matter, who cannot be named, say everything you were told is a lie. The next review is scheduled for next month.",
+    "topic":"sports",
+    "word_count":61,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00393",
+    "headline":"You won't believe what insiders just leaked about unemployment figures",
+    "body_text":"You won't believe what insiders just leaked about unemployment figures! Sources close to the matter, who cannot be named, say everything you were told is a lie. The report cites data from surveys conducted over the past twelve months. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. The cover-up goes all the way to the top!",
+    "topic":"economy",
+    "word_count":75,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00401",
+    "headline":"You won't believe what insiders just leaked about a water shortage",
+    "body_text":"You won't believe what insiders just leaked about a water shortage! Millions are already furious and demanding answers from the corrupt establishment. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. The next review is scheduled for next month.",
+    "topic":"environment",
+    "word_count":56,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00722",
+    "headline":"Researchers and government officials reported new details about carbon emission targets",
+    "body_text":"Researchers and government officials reported new details about carbon emission targets. Experts noted that the outcome depends on several factors and that more data is needed. Experts noted that the outcome depends on several factors and that more data is needed. Analysts cautioned that early estimates may be revised as new data becomes available. Analysts cautioned that early estimates may be revised as new data becomes available. The findings will be presented to the committee.",
+    "topic":"environment",
+    "word_count":86,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00118",
+    "headline":"Officials said on 22 July 2025 that the election commission is under review",
+    "body_text":"Officials said on 22 July 2025 that the election commission is under review. Mainstream outlets are completely ignoring this explosive story. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. The cover-up goes all the way to the top!",
+    "topic":"politics",
+    "word_count":54,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01167",
+    "headline":"Officials said on 29 September 2024 that a football transfer is under review",
+    "body_text":"Officials said on 29 September 2024 that a football transfer is under review. Experts noted that the outcome depends on several factors and that more data is needed. Share this before it gets deleted, because they do not want you to know. Share this before it gets deleted, because they do not want you to know. Sources close to the matter, who cannot be named, say everything you were told is a lie. The next review is scheduled for next month.",
+    "topic":"sports",
+    "word_count":90,
+    "label":"FAKE",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00186",
+    "headline":"BREAKING!!! The truth about carbon emission targets the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about carbon emission targets the media refuses to show you. Share this before it gets deleted, because they do not want you to know. Millions are already furious and demanding answers from the corrupt establishment. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Millions are already furious and demanding answers from the corrupt establishment. They are watching, so share while you still can.",
+    "topic":"environment",
+    "word_count":98,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01153",
+    "headline":"SHOCKING: what they are hiding about a major cyber incident will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about a major cyber incident will leave you speechless! Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Millions are already furious and demanding answers from the corrupt establishment. The report cites data from surveys conducted over the past twelve months. Millions are already furious and demanding answers from the corrupt establishment. Wake up before it is too late!",
+    "topic":"technology",
+    "word_count":97,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00435",
+    "headline":"According to a statement released on 23 May 2025, a hockey tournament has drawn attention from analysts",
+    "body_text":"According to a statement released on 23 May 2025, a hockey tournament has drawn attention from analysts. A spokesperson said the ministry would release further information after consultations. Share this before it gets deleted, because they do not want you to know. Officials declined to comment beyond the statement.",
+    "topic":"sports",
+    "word_count":62,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00556",
+    "headline":"Officials said on 01 July 2025 that new voting rules is under review",
+    "body_text":"Officials said on 01 July 2025 that new voting rules is under review. The report cites data from surveys conducted over the past twelve months. The figures were compiled by an independent agency and published in its quarterly report. A spokesperson said the ministry would release further information after consultations. Experts noted that the outcome depends on several factors and that more data is needed. Experts noted that the outcome depends on several factors and that more data is needed. The next review is scheduled for next month.",
+    "topic":"politics",
+    "word_count":97,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00780",
+    "headline":"You won't believe what insiders just leaked about public health guidelines",
+    "body_text":"You won't believe what insiders just leaked about public health guidelines! Sources close to the matter, who cannot be named, say everything you were told is a lie. The report cites data from surveys conducted over the past twelve months. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Wake up before it is too late!",
+    "topic":"health",
+    "word_count":74,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00418",
+    "headline":"EXPOSED: the secret plot behind forest conservation rules revealed at last",
+    "body_text":"EXPOSED: the secret plot behind forest conservation rules revealed at last! A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Mainstream outlets are completely ignoring this explosive story. Millions are already furious and demanding answers from the corrupt establishment. Sources close to the matter, who cannot be named, say everything you were told is a lie. Spread the word now!",
+    "topic":"environment",
+    "word_count":75,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00615",
+    "headline":"BREAKING!!! The truth about retail sales the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about retail sales the media refuses to show you. Local representatives said they would monitor the situation and update residents. Local representatives said they would monitor the situation and update residents. Experts noted that the outcome depends on several factors and that more data is needed. Analysts cautioned that early estimates may be revised as new data becomes available. Officials declined to comment beyond the statement.",
+    "topic":"economy",
+    "word_count":81,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00870",
+    "headline":"BREAKING!!! The truth about the national budget the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about the national budget the media refuses to show you. Mainstream outlets are completely ignoring this explosive story. Millions are already furious and demanding answers from the corrupt establishment. Mainstream outlets are completely ignoring this explosive story. Sources close to the matter, who cannot be named, say everything you were told is a lie. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. They are watching, so share while you still can.",
+    "topic":"economy",
+    "word_count":92,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00661",
+    "headline":"Officials said on 08 March 2025 that the monsoon forecast is under review",
+    "body_text":"Officials said on 08 March 2025 that the monsoon forecast is under review. A spokesperson said the ministry would release further information after consultations. A spokesperson said the ministry would release further information after consultations. Analysts cautioned that early estimates may be revised as new data becomes available. Experts noted that the outcome depends on several factors and that more data is needed. Officials declined to comment beyond the statement.",
+    "topic":"environment",
+    "word_count":79,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00052",
+    "headline":"Authorities confirmed that a major cyber incident will be discussed this week",
+    "body_text":"Authorities confirmed that a major cyber incident will be discussed this week. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. They are watching, so share while you still can.",
+    "topic":"technology",
+    "word_count":60,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01183",
+    "headline":"According to a statement released on 11 May 2025, a proposed tax reform has drawn attention from analysts",
+    "body_text":"According to a statement released on 11 May 2025, a proposed tax reform has drawn attention from analysts. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. The cover-up goes all the way to the top!",
+    "topic":"politics",
+    "word_count":69,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00395",
+    "headline":"You won't believe what insiders just leaked about the housing market",
+    "body_text":"You won't believe what insiders just leaked about the housing market! Sources close to the matter, who cannot be named, say everything you were told is a lie. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Sources close to the matter, who cannot be named, say everything you were told is a lie. Wake up before it is too late!",
+    "topic":"economy",
+    "word_count":79,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00990",
+    "headline":"BREAKING!!! The truth about a new vaccine trial the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about a new vaccine trial the media refuses to show you. Mainstream outlets are completely ignoring this explosive story. Share this before it gets deleted, because they do not want you to know. The report cites data from surveys conducted over the past twelve months. Further updates are expected in the coming weeks.",
+    "topic":"health",
+    "word_count":70,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00526",
+    "headline":"SHOCKING: what they are hiding about 5G rollout will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about 5G rollout will leave you speechless! Sources close to the matter, who cannot be named, say everything you were told is a lie. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Mainstream outlets are completely ignoring this explosive story. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Spread the word now!",
+    "topic":"technology",
+    "word_count":80,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00512",
+    "headline":"You won't believe what insiders just leaked about a flood warning",
+    "body_text":"You won't believe what insiders just leaked about a flood warning! Experts noted that the outcome depends on several factors and that more data is needed. Share this before it gets deleted, because they do not want you to know. Mainstream outlets are completely ignoring this explosive story. Share this before it gets deleted, because they do not want you to know. They are watching, so share while you still can.",
+    "topic":"environment",
+    "word_count":84,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00432",
+    "headline":"Officials said on 07 April 2025 that a water shortage is under review",
+    "body_text":"Officials said on 07 April 2025 that a water shortage is under review. Mainstream outlets are completely ignoring this explosive story. Analysts cautioned that early estimates may be revised as new data becomes available. A spokesperson said the ministry would release further information after consultations. The findings will be presented to the committee.",
+    "topic":"environment",
+    "word_count":62,
+    "label":"FAKE",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00024",
+    "headline":"SHOCKING: what they are hiding about the league schedule will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about the league schedule will leave you speechless! Sources close to the matter, who cannot be named, say everything you were told is a lie. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Local representatives said they would monitor the situation and update residents. Millions are already furious and demanding answers from the corrupt establishment. The cover-up goes all the way to the top!",
+    "topic":"sports",
+    "word_count":88,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00142",
+    "headline":"Officials said on 14 February 2025 that air quality is under review",
+    "body_text":"Officials said on 14 February 2025 that air quality is under review. A spokesperson said the ministry would release further information after consultations. Mainstream outlets are completely ignoring this explosive story. The report cites data from surveys conducted over the past twelve months. The next review is scheduled for next month.",
+    "topic":"health",
+    "word_count":59,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00859",
+    "headline":"You won't believe what insiders just leaked about inflation",
+    "body_text":"You won't believe what insiders just leaked about inflation! Sources close to the matter, who cannot be named, say everything you were told is a lie. Share this before it gets deleted, because they do not want you to know. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. The next review is scheduled for next month.",
+    "topic":"economy",
+    "word_count":72,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00366",
+    "headline":"Researchers and government officials reported new details about the election commission",
+    "body_text":"Researchers and government officials reported new details about the election commission. Local representatives said they would monitor the situation and update residents. Local representatives said they would monitor the situation and update residents. The cover-up goes all the way to the top!",
+    "topic":"politics",
+    "word_count":54,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00121",
+    "headline":"Officials said on 08 March 2025 that air quality is under review",
+    "body_text":"Officials said on 08 March 2025 that air quality is under review. Experts noted that the outcome depends on several factors and that more data is needed. Analysts cautioned that early estimates may be revised as new data becomes available. The report cites data from surveys conducted over the past twelve months. Experts noted that the outcome depends on several factors and that more data is needed. The findings will be presented to the committee.",
+    "topic":"health",
+    "word_count":83,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00029",
+    "headline":"You won't believe what insiders just leaked about a marathon event",
+    "body_text":"You won't believe what insiders just leaked about a marathon event! Experts noted that the outcome depends on several factors and that more data is needed. The figures were compiled by an independent agency and published in its quarterly report. The findings will be presented to the committee.",
+    "topic":"sports",
+    "word_count":61,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A01177",
+    "headline":"Researchers and government officials reported new details about an AI regulation draft",
+    "body_text":"Researchers and government officials reported new details about an AI regulation draft. The report cites data from surveys conducted over the past twelve months. Sources close to the matter, who cannot be named, say everything you were told is a lie. Millions are already furious and demanding answers from the corrupt establishment. Sources close to the matter, who cannot be named, say everything you were told is a lie. The next review is scheduled for next month.",
+    "topic":"technology",
+    "word_count":89,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01055",
+    "headline":"According to a statement released on 09 June 2024, an AI regulation draft has drawn attention from analysts",
+    "body_text":"According to a statement released on 09 June 2024, an AI regulation draft has drawn attention from analysts. Experts noted that the outcome depends on several factors and that more data is needed. Local representatives said they would monitor the situation and update residents. The findings will be presented to the committee.",
+    "topic":"technology",
+    "word_count":66,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00925",
+    "headline":"SHOCKING: what they are hiding about a proposed tax reform will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about a proposed tax reform will leave you speechless! Sources close to the matter, who cannot be named, say everything you were told is a lie. Analysts cautioned that early estimates may be revised as new data becomes available. Mainstream outlets are completely ignoring this explosive story. Mainstream outlets are completely ignoring this explosive story. Spread the word now!",
+    "topic":"politics",
+    "word_count":78,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00986",
+    "headline":"SHOCKING: what they are hiding about hospital funding will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about hospital funding will leave you speechless! Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Sources close to the matter, who cannot be named, say everything you were told is a lie. Millions are already furious and demanding answers from the corrupt establishment. Mainstream outlets are completely ignoring this explosive story. The report cites data from surveys conducted over the past twelve months. The cover-up goes all the way to the top!",
+    "topic":"health",
+    "word_count":96,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01066",
+    "headline":"Researchers and government officials reported new details about fuel prices",
+    "body_text":"Researchers and government officials reported new details about fuel prices. Analysts cautioned that early estimates may be revised as new data becomes available. The figures were compiled by an independent agency and published in its quarterly report. Analysts cautioned that early estimates may be revised as new data becomes available. The findings will be presented to the committee.",
+    "topic":"economy",
+    "word_count":68,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00297",
+    "headline":"EXPOSED: the secret plot behind the national budget revealed at last",
+    "body_text":"EXPOSED: the secret plot behind the national budget revealed at last! Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Analysts cautioned that early estimates may be revised as new data becomes available. The figures were compiled by an independent agency and published in its quarterly report. The report cites data from surveys conducted over the past twelve months. The figures were compiled by an independent agency and published in its quarterly report. Further updates are expected in the coming weeks.",
+    "topic":"economy",
+    "word_count":97,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00895",
+    "headline":"Researchers and government officials reported new details about the foreign minister's visit",
+    "body_text":"Researchers and government officials reported new details about the foreign minister's visit. Millions are already furious and demanding answers from the corrupt establishment. Analysts cautioned that early estimates may be revised as new data becomes available. Local representatives said they would monitor the situation and update residents. Officials declined to comment beyond the statement.",
+    "topic":"politics",
+    "word_count":68,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A01143",
+    "headline":"SHOCKING: what they are hiding about the monsoon forecast will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about the monsoon forecast will leave you speechless! Analysts cautioned that early estimates may be revised as new data becomes available. Share this before it gets deleted, because they do not want you to know. Mainstream outlets are completely ignoring this explosive story. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Spread the word now!",
+    "topic":"environment",
+    "word_count":93,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00362",
+    "headline":"Authorities confirmed that a major cyber incident will be discussed this week",
+    "body_text":"Authorities confirmed that a major cyber incident will be discussed this week. The figures were compiled by an independent agency and published in its quarterly report. The figures were compiled by an independent agency and published in its quarterly report. The findings will be presented to the committee.",
+    "topic":"technology",
+    "word_count":60,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00084",
+    "headline":"Authorities confirmed that a state coalition deal will be discussed this week",
+    "body_text":"Authorities confirmed that a state coalition deal will be discussed this week. Mainstream outlets are completely ignoring this explosive story. Millions are already furious and demanding answers from the corrupt establishment. Sources close to the matter, who cannot be named, say everything you were told is a lie. Millions are already furious and demanding answers from the corrupt establishment. Mainstream outlets are completely ignoring this explosive story. Officials declined to comment beyond the statement.",
+    "topic":"politics",
+    "word_count":86,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01056",
+    "headline":"Authorities confirmed that forest conservation rules will be discussed this week",
+    "body_text":"Authorities confirmed that forest conservation rules will be discussed this week. Share this before it gets deleted, because they do not want you to know. Experts noted that the outcome depends on several factors and that more data is needed. Wake up before it is too late!",
+    "topic":"environment",
+    "word_count":58,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00861",
+    "headline":"Officials said on 17 January 2024 that a flood warning is under review",
+    "body_text":"Officials said on 17 January 2024 that a flood warning is under review. Local representatives said they would monitor the situation and update residents. Mainstream outlets are completely ignoring this explosive story. Sources close to the matter, who cannot be named, say everything you were told is a lie. The figures were compiled by an independent agency and published in its quarterly report. Experts noted that the outcome depends on several factors and that more data is needed. Further updates are expected in the coming weeks.",
+    "topic":"environment",
+    "word_count":95,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00694",
+    "headline":"You won't believe what insiders just leaked about a diabetes study",
+    "body_text":"You won't believe what insiders just leaked about a diabetes study! Millions are already furious and demanding answers from the corrupt establishment. Share this before it gets deleted, because they do not want you to know. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Wake up before it is too late!",
+    "topic":"health",
+    "word_count":70,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00277",
+    "headline":"Officials said on 09 July 2025 that carbon emission targets is under review",
+    "body_text":"Officials said on 09 July 2025 that carbon emission targets is under review. Millions are already furious and demanding answers from the corrupt establishment. Mainstream outlets are completely ignoring this explosive story. Share this before it gets deleted, because they do not want you to know. A spokesperson said the ministry would release further information after consultations. The figures were compiled by an independent agency and published in its quarterly report. The next review is scheduled for next month.",
+    "topic":"environment",
+    "word_count":88,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00202",
+    "headline":"Officials said on 04 February 2024 that a data privacy law is under review",
+    "body_text":"Officials said on 04 February 2024 that a data privacy law is under review. Experts noted that the outcome depends on several factors and that more data is needed. A spokesperson said the ministry would release further information after consultations. The report cites data from surveys conducted over the past twelve months. Experts noted that the outcome depends on several factors and that more data is needed. The report cites data from surveys conducted over the past twelve months. They are watching, so share while you still can.",
+    "topic":"technology",
+    "word_count":98,
+    "label":"FAKE",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00421",
+    "headline":"Officials said on 08 November 2024 that new voting rules is under review",
+    "body_text":"Officials said on 08 November 2024 that new voting rules is under review. The report cites data from surveys conducted over the past twelve months. Experts noted that the outcome depends on several factors and that more data is needed. Wake up before it is too late!",
+    "topic":"politics",
+    "word_count":56,
+    "label":"FAKE",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00962",
+    "headline":"SHOCKING: what they are hiding about carbon emission targets will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about carbon emission targets will leave you speechless! Mainstream outlets are completely ignoring this explosive story. Mainstream outlets are completely ignoring this explosive story. Millions are already furious and demanding answers from the corrupt establishment. Local representatives said they would monitor the situation and update residents. The cover-up goes all the way to the top!",
+    "topic":"environment",
+    "word_count":74,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01169",
+    "headline":"EXPOSED: the secret plot behind the election commission revealed at last",
+    "body_text":"EXPOSED: the secret plot behind the election commission revealed at last! Millions are already furious and demanding answers from the corrupt establishment. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. The cover-up goes all the way to the top!",
+    "topic":"politics",
+    "word_count":56,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00097",
+    "headline":"You won't believe what insiders just leaked about retail sales",
+    "body_text":"You won't believe what insiders just leaked about retail sales! Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Experts noted that the outcome depends on several factors and that more data is needed. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Wake up before it is too late!",
+    "topic":"economy",
+    "word_count":85,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00467",
+    "headline":"BREAKING!!! The truth about a data privacy law the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about a data privacy law the media refuses to show you. Analysts cautioned that early estimates may be revised as new data becomes available. A spokesperson said the ministry would release further information after consultations. The findings will be presented to the committee.",
+    "topic":"technology",
+    "word_count":60,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00856",
+    "headline":"Authorities confirmed that fuel prices will be discussed this week",
+    "body_text":"Authorities confirmed that fuel prices will be discussed this week. The figures were compiled by an independent agency and published in its quarterly report. The report cites data from surveys conducted over the past twelve months. Share this before it gets deleted, because they do not want you to know. Officials declined to comment beyond the statement.",
+    "topic":"economy",
+    "word_count":67,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00305",
+    "headline":"Officials said on 17 August 2025 that interest rates is under review",
+    "body_text":"Officials said on 17 August 2025 that interest rates is under review. Analysts cautioned that early estimates may be revised as new data becomes available. A spokesperson said the ministry would release further information after consultations. Local representatives said they would monitor the situation and update residents. Local representatives said they would monitor the situation and update residents. Officials declined to comment beyond the statement.",
+    "topic":"economy",
+    "word_count":73,
+    "label":"FAKE",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00093",
+    "headline":"SHOCKING: what they are hiding about a flood warning will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about a flood warning will leave you speechless! Mainstream outlets are completely ignoring this explosive story. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. The next review is scheduled for next month.",
+    "topic":"environment",
+    "word_count":56,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01174",
+    "headline":"You won't believe what insiders just leaked about a state coalition deal",
+    "body_text":"You won't believe what insiders just leaked about a state coalition deal! The figures were compiled by an independent agency and published in its quarterly report. Local representatives said they would monitor the situation and update residents. The report cites data from surveys conducted over the past twelve months. Further updates are expected in the coming weeks.",
+    "topic":"politics",
+    "word_count":71,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00984",
+    "headline":"BREAKING!!! The truth about the election commission the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about the election commission the media refuses to show you. A spokesperson said the ministry would release further information after consultations. Analysts cautioned that early estimates may be revised as new data becomes available. The report cites data from surveys conducted over the past twelve months. The report cites data from surveys conducted over the past twelve months. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. The findings will be presented to the committee.",
+    "topic":"politics",
+    "word_count":95,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A01041",
+    "headline":"You won't believe what insiders just leaked about the foreign minister's visit",
+    "body_text":"You won't believe what insiders just leaked about the foreign minister's visit! A spokesperson said the ministry would release further information after consultations. Local representatives said they would monitor the situation and update residents. Experts noted that the outcome depends on several factors and that more data is needed. Analysts cautioned that early estimates may be revised as new data becomes available. The next review is scheduled for next month.",
+    "topic":"politics",
+    "word_count":86,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A01039",
+    "headline":"EXPOSED: the secret plot behind interest rates revealed at last",
+    "body_text":"EXPOSED: the secret plot behind interest rates revealed at last! Millions are already furious and demanding answers from the corrupt establishment. Analysts cautioned that early estimates may be revised as new data becomes available. The next review is scheduled for next month.",
+    "topic":"economy",
+    "word_count":52,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00797",
+    "headline":"EXPOSED: the secret plot behind an electric vehicle plant revealed at last",
+    "body_text":"EXPOSED: the secret plot behind an electric vehicle plant revealed at last! Mainstream outlets are completely ignoring this explosive story. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. They are watching, so share while you still can.",
+    "topic":"technology",
+    "word_count":54,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00748",
+    "headline":"Authorities confirmed that a smartphone launch will be discussed this week",
+    "body_text":"Authorities confirmed that a smartphone launch will be discussed this week. The figures were compiled by an independent agency and published in its quarterly report. The figures were compiled by an independent agency and published in its quarterly report. Experts noted that the outcome depends on several factors and that more data is needed. Experts noted that the outcome depends on several factors and that more data is needed. The report cites data from surveys conducted over the past twelve months. Further updates are expected in the coming weeks.",
+    "topic":"technology",
+    "word_count":100,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00988",
+    "headline":"SHOCKING: what they are hiding about the league schedule will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about the league schedule will leave you speechless! A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Mainstream outlets are completely ignoring this explosive story. Wake up before it is too late!",
+    "topic":"sports",
+    "word_count":54,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00130",
+    "headline":"Researchers and government officials reported new details about a flood warning",
+    "body_text":"Researchers and government officials reported new details about a flood warning. The report cites data from surveys conducted over the past twelve months. Local representatives said they would monitor the situation and update residents. Experts noted that the outcome depends on several factors and that more data is needed. Millions are already furious and demanding answers from the corrupt establishment. Further updates are expected in the coming weeks.",
+    "topic":"environment",
+    "word_count":79,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00668",
+    "headline":"Authorities confirmed that carbon emission targets will be discussed this week",
+    "body_text":"Authorities confirmed that carbon emission targets will be discussed this week. Local representatives said they would monitor the situation and update residents. Sources close to the matter, who cannot be named, say everything you were told is a lie. Local representatives said they would monitor the situation and update residents. Officials declined to comment beyond the statement.",
+    "topic":"environment",
+    "word_count":68,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00746",
+    "headline":"You won't believe what insiders just leaked about a water shortage",
+    "body_text":"You won't believe what insiders just leaked about a water shortage! The figures were compiled by an independent agency and published in its quarterly report. Experts noted that the outcome depends on several factors and that more data is needed. A spokesperson said the ministry would release further information after consultations. Further updates are expected in the coming weeks.",
+    "topic":"environment",
+    "word_count":72,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00744",
+    "headline":"EXPOSED: the secret plot behind the national budget revealed at last",
+    "body_text":"EXPOSED: the secret plot behind the national budget revealed at last! A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Local representatives said they would monitor the situation and update residents. Sources close to the matter, who cannot be named, say everything you were told is a lie. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Spread the word now!",
+    "topic":"economy",
+    "word_count":80,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00703",
+    "headline":"EXPOSED: the secret plot behind 5G rollout revealed at last",
+    "body_text":"EXPOSED: the secret plot behind 5G rollout revealed at last! A anonymous whistleblower claims the whole thing was staged to fool ordinary people. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Share this before it gets deleted, because they do not want you to know. A spokesperson said the ministry would release further information after consultations. Sources close to the matter, who cannot be named, say everything you were told is a lie. Wake up before it is too late!",
+    "topic":"technology",
+    "word_count":95,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00642",
+    "headline":"You won't believe what insiders just leaked about retail sales",
+    "body_text":"You won't believe what insiders just leaked about retail sales! Share this before it gets deleted, because they do not want you to know. Share this before it gets deleted, because they do not want you to know. Millions are already furious and demanding answers from the corrupt establishment. Millions are already furious and demanding answers from the corrupt establishment. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Spread the word now!",
+    "topic":"economy",
+    "word_count":89,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01035",
+    "headline":"Officials said on 31 March 2025 that retail sales is under review",
+    "body_text":"Officials said on 31 March 2025 that retail sales is under review. The report cites data from surveys conducted over the past twelve months. Share this before it gets deleted, because they do not want you to know. Local representatives said they would monitor the situation and update residents. Wake up before it is too late!",
+    "topic":"economy",
+    "word_count":64,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00531",
+    "headline":"Officials said on 09 September 2024 that a water shortage is under review",
+    "body_text":"Officials said on 09 September 2024 that a water shortage is under review. Share this before it gets deleted, because they do not want you to know. Share this before it gets deleted, because they do not want you to know. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Sources close to the matter, who cannot be named, say everything you were told is a lie. Sources close to the matter, who cannot be named, say everything you were told is a lie. The cover-up goes all the way to the top!",
+    "topic":"environment",
+    "word_count":107,
+    "label":"REAL",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00048",
+    "headline":"You won't believe what insiders just leaked about a seasonal flu outbreak",
+    "body_text":"You won't believe what insiders just leaked about a seasonal flu outbreak! Analysts cautioned that early estimates may be revised as new data becomes available. Analysts cautioned that early estimates may be revised as new data becomes available. The report cites data from surveys conducted over the past twelve months. The figures were compiled by an independent agency and published in its quarterly report. The findings will be presented to the committee.",
+    "topic":"health",
+    "word_count":86,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00656",
+    "headline":"You won't believe what insiders just leaked about a tennis final",
+    "body_text":"You won't believe what insiders just leaked about a tennis final! Sources close to the matter, who cannot be named, say everything you were told is a lie. Share this before it gets deleted, because they do not want you to know. Share this before it gets deleted, because they do not want you to know. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Share this before it gets deleted, because they do not want you to know. The next review is scheduled for next month.",
+    "topic":"sports",
+    "word_count":105,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00890",
+    "headline":"According to a statement released on 29 July 2025, a tennis final has drawn attention from analysts",
+    "body_text":"According to a statement released on 29 July 2025, a tennis final has drawn attention from analysts. Millions are already furious and demanding answers from the corrupt establishment. Local representatives said they would monitor the situation and update residents. Local representatives said they would monitor the situation and update residents. A spokesperson said the ministry would release further information after consultations. The next review is scheduled for next month.",
+    "topic":"sports",
+    "word_count":82,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00241",
+    "headline":"BREAKING!!! The truth about a new vaccine trial the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about a new vaccine trial the media refuses to show you. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. A spokesperson said the ministry would release further information after consultations. Share this before it gets deleted, because they do not want you to know. The next review is scheduled for next month.",
+    "topic":"health",
+    "word_count":75,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00482",
+    "headline":"SHOCKING: what they are hiding about public health guidelines will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about public health guidelines will leave you speechless! Share this before it gets deleted, because they do not want you to know. Sources close to the matter, who cannot be named, say everything you were told is a lie. Local representatives said they would monitor the situation and update residents. Wake up before it is too late!",
+    "topic":"health",
+    "word_count":75,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00169",
+    "headline":"You won't believe what insiders just leaked about the Olympic squad",
+    "body_text":"You won't believe what insiders just leaked about the Olympic squad! Share this before it gets deleted, because they do not want you to know. Sources close to the matter, who cannot be named, say everything you were told is a lie. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Spread the word now!",
+    "topic":"sports",
+    "word_count":72,
+    "label":"REAL",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00434",
+    "headline":"Authorities confirmed that a water shortage will be discussed this week",
+    "body_text":"Authorities confirmed that a water shortage will be discussed this week. Experts noted that the outcome depends on several factors and that more data is needed. A spokesperson said the ministry would release further information after consultations. The cover-up goes all the way to the top!",
+    "topic":"environment",
+    "word_count":58,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00529",
+    "headline":"EXPOSED: the secret plot behind air quality revealed at last",
+    "body_text":"EXPOSED: the secret plot behind air quality revealed at last! The figures were compiled by an independent agency and published in its quarterly report. The figures were compiled by an independent agency and published in its quarterly report. The figures were compiled by an independent agency and published in its quarterly report. Local representatives said they would monitor the situation and update residents. The cover-up goes all the way to the top!",
+    "topic":"health",
+    "word_count":83,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00049",
+    "headline":"BREAKING!!! The truth about fuel prices the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about fuel prices the media refuses to show you. Mainstream outlets are completely ignoring this explosive story. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Wake up before it is too late!",
+    "topic":"economy",
+    "word_count":53,
+    "label":"REAL",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00950",
+    "headline":"You won't believe what insiders just leaked about the housing market",
+    "body_text":"You won't believe what insiders just leaked about the housing market! A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Millions are already furious and demanding answers from the corrupt establishment. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Wake up before it is too late!",
+    "topic":"economy",
+    "word_count":68,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00105",
+    "headline":"Authorities confirmed that hospital funding will be discussed this week",
+    "body_text":"Authorities confirmed that hospital funding will be discussed this week. Local representatives said they would monitor the situation and update residents. Local representatives said they would monitor the situation and update residents. Share this before it gets deleted, because they do not want you to know. Analysts cautioned that early estimates may be revised as new data becomes available. The next review is scheduled for next month.",
+    "topic":"health",
+    "word_count":77,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00349",
+    "headline":"Officials said on 05 March 2024 that a satellite launch is under review",
+    "body_text":"Officials said on 05 March 2024 that a satellite launch is under review. The report cites data from surveys conducted over the past twelve months. Millions are already furious and demanding answers from the corrupt establishment. Analysts cautioned that early estimates may be revised as new data becomes available. The figures were compiled by an independent agency and published in its quarterly report. Experts noted that the outcome depends on several factors and that more data is needed. The next review is scheduled for next month.",
+    "topic":"technology",
+    "word_count":95,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00484",
+    "headline":"Authorities confirmed that the national cricket team will be discussed this week",
+    "body_text":"Authorities confirmed that the national cricket team will be discussed this week. Local representatives said they would monitor the situation and update residents. Local representatives said they would monitor the situation and update residents. Local representatives said they would monitor the situation and update residents. The findings will be presented to the committee.",
+    "topic":"sports",
+    "word_count":65,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00774",
+    "headline":"Officials said on 10 April 2025 that public health guidelines is under review",
+    "body_text":"Officials said on 10 April 2025 that public health guidelines is under review. The figures were compiled by an independent agency and published in its quarterly report. Experts noted that the outcome depends on several factors and that more data is needed. Share this before it gets deleted, because they do not want you to know. Officials declined to comment beyond the statement.",
+    "topic":"health",
+    "word_count":72,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00350",
+    "headline":"BREAKING!!! The truth about a major cyber incident the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about a major cyber incident the media refuses to show you. Sources close to the matter, who cannot be named, say everything you were told is a lie. Mainstream outlets are completely ignoring this explosive story. Wake up before it is too late!",
+    "topic":"technology",
+    "word_count":60,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00758",
+    "headline":"SHOCKING: what they are hiding about a proposed tax reform will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about a proposed tax reform will leave you speechless! Sources close to the matter, who cannot be named, say everything you were told is a lie. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. The next review is scheduled for next month.",
+    "topic":"politics",
+    "word_count":66,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00156",
+    "headline":"Researchers and government officials reported new details about a flood warning",
+    "body_text":"Researchers and government officials reported new details about a flood warning. Local representatives said they would monitor the situation and update residents. Local representatives said they would monitor the situation and update residents. They are watching, so share while you still can.",
+    "topic":"environment",
+    "word_count":53,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00001",
+    "headline":"SHOCKING: what they are hiding about a diabetes study will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about a diabetes study will leave you speechless! A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Sources close to the matter, who cannot be named, say everything you were told is a lie. Sources close to the matter, who cannot be named, say everything you were told is a lie. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Wake up before it is too late!",
+    "topic":"health",
+    "word_count":93,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00681",
+    "headline":"SHOCKING: what they are hiding about an AI regulation draft will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about an AI regulation draft will leave you speechless! Share this before it gets deleted, because they do not want you to know. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Local representatives said they would monitor the situation and update residents. Sources close to the matter, who cannot be named, say everything you were told is a lie. Local representatives said they would monitor the situation and update residents. Further updates are expected in the coming weeks.",
+    "topic":"technology",
+    "word_count":102,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00619",
+    "headline":"EXPOSED: the secret plot behind a data privacy law revealed at last",
+    "body_text":"EXPOSED: the secret plot behind a data privacy law revealed at last! A anonymous whistleblower claims the whole thing was staged to fool ordinary people. A spokesperson said the ministry would release further information after consultations. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Experts noted that the outcome depends on several factors and that more data is needed. The findings will be presented to the committee.",
+    "topic":"technology",
+    "word_count":84,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00905",
+    "headline":"BREAKING!!! The truth about a marathon event the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about a marathon event the media refuses to show you. Sources close to the matter, who cannot be named, say everything you were told is a lie. Millions are already furious and demanding answers from the corrupt establishment. Share this before it gets deleted, because they do not want you to know. Mainstream outlets are completely ignoring this explosive story. The next review is scheduled for next month.",
+    "topic":"sports",
+    "word_count":84,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00294",
+    "headline":"EXPOSED: the secret plot behind a data privacy law revealed at last",
+    "body_text":"EXPOSED: the secret plot behind a data privacy law revealed at last! Local representatives said they would monitor the situation and update residents. Millions are already furious and demanding answers from the corrupt establishment. Millions are already furious and demanding answers from the corrupt establishment. Wake up before it is too late!",
+    "topic":"technology",
+    "word_count":64,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01072",
+    "headline":"Authorities confirmed that a tennis final will be discussed this week",
+    "body_text":"Authorities confirmed that a tennis final will be discussed this week. Sources close to the matter, who cannot be named, say everything you were told is a lie. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Sources close to the matter, who cannot be named, say everything you were told is a lie. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Further updates are expected in the coming weeks.",
+    "topic":"sports",
+    "word_count":92,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00678",
+    "headline":"Authorities confirmed that new voting rules will be discussed this week",
+    "body_text":"Authorities confirmed that new voting rules will be discussed this week. The figures were compiled by an independent agency and published in its quarterly report. Local representatives said they would monitor the situation and update residents. A spokesperson said the ministry would release further information after consultations. Millions are already furious and demanding answers from the corrupt establishment. They are watching, so share while you still can.",
+    "topic":"politics",
+    "word_count":78,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00699",
+    "headline":"Researchers and government officials reported new details about new voting rules",
+    "body_text":"Researchers and government officials reported new details about new voting rules. Local representatives said they would monitor the situation and update residents. The report cites data from surveys conducted over the past twelve months. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. The report cites data from surveys conducted over the past twelve months. Mainstream outlets are completely ignoring this explosive story. The findings will be presented to the committee.",
+    "topic":"politics",
+    "word_count":87,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00521",
+    "headline":"According to a statement released on 02 November 2024, a new vaccine trial has drawn attention from analysts",
+    "body_text":"According to a statement released on 02 November 2024, a new vaccine trial has drawn attention from analysts. The figures were compiled by an independent agency and published in its quarterly report. Experts noted that the outcome depends on several factors and that more data is needed. The figures were compiled by an independent agency and published in its quarterly report. Further updates are expected in the coming weeks.",
+    "topic":"health",
+    "word_count":83,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A01032",
+    "headline":"EXPOSED: the secret plot behind a tennis final revealed at last",
+    "body_text":"EXPOSED: the secret plot behind a tennis final revealed at last! Experts noted that the outcome depends on several factors and that more data is needed. Experts noted that the outcome depends on several factors and that more data is needed. Local representatives said they would monitor the situation and update residents. Analysts cautioned that early estimates may be revised as new data becomes available. The next review is scheduled for next month.",
+    "topic":"sports",
+    "word_count":84,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A01093",
+    "headline":"Authorities confirmed that carbon emission targets will be discussed this week",
+    "body_text":"Authorities confirmed that carbon emission targets will be discussed this week. Share this before it gets deleted, because they do not want you to know. The figures were compiled by an independent agency and published in its quarterly report. Further updates are expected in the coming weeks.",
+    "topic":"environment",
+    "word_count":58,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00017",
+    "headline":"Authorities confirmed that public health guidelines will be discussed this week",
+    "body_text":"Authorities confirmed that public health guidelines will be discussed this week. Local representatives said they would monitor the situation and update residents. Local representatives said they would monitor the situation and update residents. The report cites data from surveys conducted over the past twelve months. The findings will be presented to the committee.",
+    "topic":"health",
+    "word_count":64,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00612",
+    "headline":"Researchers and government officials reported new details about the housing market",
+    "body_text":"Researchers and government officials reported new details about the housing market. Mainstream outlets are completely ignoring this explosive story. Sources close to the matter, who cannot be named, say everything you were told is a lie. Mainstream outlets are completely ignoring this explosive story. They are watching, so share while you still can.",
+    "topic":"economy",
+    "word_count":64,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00125",
+    "headline":"You won't believe what insiders just leaked about a proposed tax reform",
+    "body_text":"You won't believe what insiders just leaked about a proposed tax reform! Sources close to the matter, who cannot be named, say everything you were told is a lie. Sources close to the matter, who cannot be named, say everything you were told is a lie. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Sources close to the matter, who cannot be named, say everything you were told is a lie. The cover-up goes all the way to the top!",
+    "topic":"politics",
+    "word_count":101,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00604",
+    "headline":"Officials said on 01 September 2025 that the election commission is under review",
+    "body_text":"Officials said on 01 September 2025 that the election commission is under review. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. A spokesperson said the ministry would release further information after consultations. Officials declined to comment beyond the statement.",
+    "topic":"politics",
+    "word_count":53,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A01082",
+    "headline":"EXPOSED: the secret plot behind a diabetes study revealed at last",
+    "body_text":"EXPOSED: the secret plot behind a diabetes study revealed at last! Millions are already furious and demanding answers from the corrupt establishment. Sources close to the matter, who cannot be named, say everything you were told is a lie. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Wake up before it is too late!",
+    "topic":"health",
+    "word_count":71,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00599",
+    "headline":"Authorities confirmed that a tennis final will be discussed this week",
+    "body_text":"Authorities confirmed that a tennis final will be discussed this week. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Share this before it gets deleted, because they do not want you to know. The report cites data from surveys conducted over the past twelve months. The report cites data from surveys conducted over the past twelve months. Spread the word now!",
+    "topic":"sports",
+    "word_count":78,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00411",
+    "headline":"You won't believe what insiders just leaked about a diabetes study",
+    "body_text":"You won't believe what insiders just leaked about a diabetes study! Share this before it gets deleted, because they do not want you to know. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. The next review is scheduled for next month.",
+    "topic":"health",
+    "word_count":73,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00232",
+    "headline":"Researchers and government officials reported new details about the housing market",
+    "body_text":"Researchers and government officials reported new details about the housing market. Experts noted that the outcome depends on several factors and that more data is needed. Experts noted that the outcome depends on several factors and that more data is needed. Millions are already furious and demanding answers from the corrupt establishment. Sources close to the matter, who cannot be named, say everything you were told is a lie. Experts noted that the outcome depends on several factors and that more data is needed. The cover-up goes all the way to the top!",
+    "topic":"economy",
+    "word_count":105,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00755",
+    "headline":"Researchers and government officials reported new details about an AI regulation draft",
+    "body_text":"Researchers and government officials reported new details about an AI regulation draft. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Share this before it gets deleted, because they do not want you to know. Experts noted that the outcome depends on several factors and that more data is needed. They are watching, so share while you still can.",
+    "topic":"technology",
+    "word_count":75,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00995",
+    "headline":"Researchers and government officials reported new details about the league schedule",
+    "body_text":"Researchers and government officials reported new details about the league schedule. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Share this before it gets deleted, because they do not want you to know. The figures were compiled by an independent agency and published in its quarterly report. Local representatives said they would monitor the situation and update residents. The findings will be presented to the committee.",
+    "topic":"sports",
+    "word_count":83,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00566",
+    "headline":"EXPOSED: the secret plot behind public health guidelines revealed at last",
+    "body_text":"EXPOSED: the secret plot behind public health guidelines revealed at last! Local representatives said they would monitor the situation and update residents. Sources close to the matter, who cannot be named, say everything you were told is a lie. The findings will be presented to the committee.",
+    "topic":"health",
+    "word_count":58,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01197",
+    "headline":"BREAKING!!! The truth about an electric vehicle plant the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about an electric vehicle plant the media refuses to show you. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Share this before it gets deleted, because they do not want you to know. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Sources close to the matter, who cannot be named, say everything you were told is a lie. Wake up before it is too late!",
+    "topic":"technology",
+    "word_count":106,
+    "label":"REAL",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00575",
+    "headline":"Officials said on 14 May 2025 that a coastal cleanup drive is under review",
+    "body_text":"Officials said on 14 May 2025 that a coastal cleanup drive is under review. A spokesperson said the ministry would release further information after consultations. Local representatives said they would monitor the situation and update residents. Further updates are expected in the coming weeks.",
+    "topic":"environment",
+    "word_count":54,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00226",
+    "headline":"You won't believe what insiders just leaked about a marathon event",
+    "body_text":"You won't believe what insiders just leaked about a marathon event! A spokesperson said the ministry would release further information after consultations. Sources close to the matter, who cannot be named, say everything you were told is a lie. Further updates are expected in the coming weeks.",
+    "topic":"sports",
+    "word_count":60,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00690",
+    "headline":"EXPOSED: the secret plot behind a seasonal flu outbreak revealed at last",
+    "body_text":"EXPOSED: the secret plot behind a seasonal flu outbreak revealed at last! A spokesperson said the ministry would release further information after consultations. Sources close to the matter, who cannot be named, say everything you were told is a lie. Millions are already furious and demanding answers from the corrupt establishment. Millions are already furious and demanding answers from the corrupt establishment. Millions are already furious and demanding answers from the corrupt establishment. Wake up before it is too late!",
+    "topic":"health",
+    "word_count":92,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00847",
+    "headline":"Researchers and government officials reported new details about fuel prices",
+    "body_text":"Researchers and government officials reported new details about fuel prices. Sources close to the matter, who cannot be named, say everything you were told is a lie. The report cites data from surveys conducted over the past twelve months. The report cites data from surveys conducted over the past twelve months. Analysts cautioned that early estimates may be revised as new data becomes available. The findings will be presented to the committee.",
+    "topic":"economy",
+    "word_count":82,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00079",
+    "headline":"Researchers and government officials reported new details about a solar energy project",
+    "body_text":"Researchers and government officials reported new details about a solar energy project. The report cites data from surveys conducted over the past twelve months. Experts noted that the outcome depends on several factors and that more data is needed. The findings will be presented to the committee.",
+    "topic":"environment",
+    "word_count":59,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00969",
+    "headline":"According to a statement released on 05 August 2025, new voting rules has drawn attention from analysts",
+    "body_text":"According to a statement released on 05 August 2025, new voting rules has drawn attention from analysts. Experts noted that the outcome depends on several factors and that more data is needed. Mainstream outlets are completely ignoring this explosive story. Spread the word now!",
+    "topic":"politics",
+    "word_count":57,
+    "label":"FAKE",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00961",
+    "headline":"SHOCKING: what they are hiding about an electric vehicle plant will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about an electric vehicle plant will leave you speechless! Sources close to the matter, who cannot be named, say everything you were told is a lie. Local representatives said they would monitor the situation and update residents. A spokesperson said the ministry would release further information after consultations. Analysts cautioned that early estimates may be revised as new data becomes available. Spread the word now!",
+    "topic":"technology",
+    "word_count":84,
+    "label":"FAKE",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00745",
+    "headline":"BREAKING!!! The truth about hospital funding the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about hospital funding the media refuses to show you. Share this before it gets deleted, because they do not want you to know. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Doctors and experts hate this, yet the elites are silencing anyone who speaks up. Millions are already furious and demanding answers from the corrupt establishment. Analysts cautioned that early estimates may be revised as new data becomes available. They are watching, so share while you still can.",
+    "topic":"health",
+    "word_count":99,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00106",
+    "headline":"SHOCKING: what they are hiding about the national cricket team will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about the national cricket team will leave you speechless! A anonymous whistleblower claims the whole thing was staged to fool ordinary people. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. They are watching, so share while you still can.",
+    "topic":"sports",
+    "word_count":63,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01191",
+    "headline":"Researchers and government officials reported new details about a coastal cleanup drive",
+    "body_text":"Researchers and government officials reported new details about a coastal cleanup drive. Local representatives said they would monitor the situation and update residents. The report cites data from surveys conducted over the past twelve months. The figures were compiled by an independent agency and published in its quarterly report. Experts noted that the outcome depends on several factors and that more data is needed. The findings will be presented to the committee.",
+    "topic":"environment",
+    "word_count":84,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00982",
+    "headline":"SHOCKING: what they are hiding about a satellite launch will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about a satellite launch will leave you speechless! A spokesperson said the ministry would release further information after consultations. Mainstream outlets are completely ignoring this explosive story. Local representatives said they would monitor the situation and update residents. The findings will be presented to the committee.",
+    "topic":"technology",
+    "word_count":64,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00245",
+    "headline":"SHOCKING: what they are hiding about a major cyber incident will leave you speechless",
+    "body_text":"SHOCKING: what they are hiding about a major cyber incident will leave you speechless! Share this before it gets deleted, because they do not want you to know. Share this before it gets deleted, because they do not want you to know. Share this before it gets deleted, because they do not want you to know. The report cites data from surveys conducted over the past twelve months. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Spread the word now!",
+    "topic":"technology",
+    "word_count":99,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01176",
+    "headline":"BREAKING!!! The truth about new voting rules the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about new voting rules the media refuses to show you. Sources close to the matter, who cannot be named, say everything you were told is a lie. A spokesperson said the ministry would release further information after consultations. Sources close to the matter, who cannot be named, say everything you were told is a lie. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. The cover-up goes all the way to the top!",
+    "topic":"politics",
+    "word_count":94,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A00996",
+    "headline":"According to a statement released on 23 February 2025, the national budget has drawn attention from analysts",
+    "body_text":"According to a statement released on 23 February 2025, the national budget has drawn attention from analysts. Sources close to the matter, who cannot be named, say everything you were told is a lie. The report cites data from surveys conducted over the past twelve months. Mainstream outlets are completely ignoring this explosive story. Officials declined to comment beyond the statement.",
+    "topic":"economy",
+    "word_count":74,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00242",
+    "headline":"EXPOSED: the secret plot behind the election commission revealed at last",
+    "body_text":"EXPOSED: the secret plot behind the election commission revealed at last! Sources close to the matter, who cannot be named, say everything you were told is a lie. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Millions are already furious and demanding answers from the corrupt establishment. The next review is scheduled for next month.",
+    "topic":"politics",
+    "word_count":71,
+    "label":"FAKE",
+    "ensemble_pred":1,
+    "predicted_label":"FAKE"
+  },
+  {
+    "article_id":"A01123",
+    "headline":"Authorities confirmed that the foreign minister's visit will be discussed this week",
+    "body_text":"Authorities confirmed that the foreign minister's visit will be discussed this week. A spokesperson said the ministry would release further information after consultations. The report cites data from surveys conducted over the past twelve months. The figures were compiled by an independent agency and published in its quarterly report. Officials declined to comment beyond the statement.",
+    "topic":"politics",
+    "word_count":70,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00693",
+    "headline":"Authorities confirmed that hospital funding will be discussed this week",
+    "body_text":"Authorities confirmed that hospital funding will be discussed this week. A anonymous whistleblower claims the whole thing was staged to fool ordinary people. Experts noted that the outcome depends on several factors and that more data is needed. Local representatives said they would monitor the situation and update residents. Spread the word now!",
+    "topic":"health",
+    "word_count":63,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00259",
+    "headline":"BREAKING!!! The truth about a state coalition deal the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about a state coalition deal the media refuses to show you. The figures were compiled by an independent agency and published in its quarterly report. Experts noted that the outcome depends on several factors and that more data is needed. Millions are already furious and demanding answers from the corrupt establishment. Officials declined to comment beyond the statement.",
+    "topic":"politics",
+    "word_count":75,
+    "label":"FAKE",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  },
+  {
+    "article_id":"A00375",
+    "headline":"BREAKING!!! The truth about a new vaccine trial the media refuses to show you",
+    "body_text":"BREAKING!!! The truth about a new vaccine trial the media refuses to show you. Local representatives said they would monitor the situation and update residents. The report cites data from surveys conducted over the past twelve months. Analysts cautioned that early estimates may be revised as new data becomes available. A spokesperson said the ministry would release further information after consultations. Experts noted that the outcome depends on several factors and that more data is needed. The findings will be presented to the committee.",
+    "topic":"health",
+    "word_count":98,
+    "label":"REAL",
+    "ensemble_pred":0,
+    "predicted_label":"REAL"
+  }
+]

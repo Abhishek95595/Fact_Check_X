@@ -1,0 +1,965 @@
+{
+    "openapi": "3.1.0",
+    "info": {
+        "title": "Fake News Detection API",
+        "description": "Production-ready REST API for Fake News Detection using TF-IDF and Soft-Voting Ensemble Learning.",
+        "version": "1.0.0"
+    },
+    "paths": {
+        "/api/predict": {
+            "post": {
+                "tags": [
+                    "Inference & Explainability"
+                ],
+                "summary": "Predict News",
+                "operationId": "predict_news_api_predict_post",
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/NewsAnalysisRequest"
+                            }
+                        }
+                    },
+                    "required": true
+                },
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/PredictionResponse"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/api/explain": {
+            "post": {
+                "tags": [
+                    "Inference & Explainability"
+                ],
+                "summary": "Explain News",
+                "operationId": "explain_news_api_explain_post",
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/ExplanationRequest"
+                            }
+                        }
+                    },
+                    "required": true
+                },
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/DetailedExplanationResponse"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/api/metrics": {
+            "get": {
+                "tags": [
+                    "Evaluation & Fairness"
+                ],
+                "summary": "Get Metrics",
+                "operationId": "get_metrics_api_metrics_get",
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/MetricsResponse"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/api/confusion-matrix": {
+            "get": {
+                "tags": [
+                    "Evaluation & Fairness"
+                ],
+                "summary": "Get Confusion Matrix",
+                "operationId": "get_confusion_matrix_api_confusion_matrix_get",
+                "parameters": [
+                    {
+                        "name": "model",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "type": "string",
+                            "description": "Model name",
+                            "default": "ensemble",
+                            "title": "Model"
+                        },
+                        "description": "Model name"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/ConfusionMatrixResponse"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/api/fairness": {
+            "get": {
+                "tags": [
+                    "Evaluation & Fairness"
+                ],
+                "summary": "Get Fairness",
+                "operationId": "get_fairness_api_fairness_get",
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/FairnessResponse"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/api/samples": {
+            "get": {
+                "tags": [
+                    "Sample Articles"
+                ],
+                "summary": "Get Sample Articles",
+                "operationId": "get_sample_articles_api_samples_get",
+                "parameters": [
+                    {
+                        "name": "page",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "type": "integer",
+                            "minimum": 1,
+                            "description": "Page number",
+                            "default": 1,
+                            "title": "Page"
+                        },
+                        "description": "Page number"
+                    },
+                    {
+                        "name": "page_size",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "type": "integer",
+                            "maximum": 50,
+                            "minimum": 1,
+                            "description": "Items per page",
+                            "default": 10,
+                            "title": "Page Size"
+                        },
+                        "description": "Items per page"
+                    },
+                    {
+                        "name": "topic",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "anyOf": [
+                                {
+                                    "type": "string"
+                                },
+                                {
+                                    "type": "null"
+                                }
+                            ],
+                            "description": "Filter by topic (e.g. economy, health, politics)",
+                            "title": "Topic"
+                        },
+                        "description": "Filter by topic (e.g. economy, health, politics)"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/SamplesListResponse"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/api/health": {
+            "get": {
+                "tags": [
+                    "Health"
+                ],
+                "summary": "Health Check",
+                "description": "Returns API health status, loaded model versions, and artifact availability.",
+                "operationId": "health_check_api_health_get",
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HealthResponse"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/": {
+            "get": {
+                "tags": [
+                    "Root"
+                ],
+                "summary": "Root",
+                "operationId": "root__get",
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "ConfusionMatrixResponse": {
+                "properties": {
+                    "model_name": {
+                        "type": "string",
+                        "title": "Model Name"
+                    },
+                    "labels": {
+                        "items": {
+                            "type": "string"
+                        },
+                        "type": "array",
+                        "title": "Labels",
+                        "default": [
+                            "REAL",
+                            "FAKE"
+                        ]
+                    },
+                    "matrix": {
+                        "items": {
+                            "items": {
+                                "type": "integer"
+                            },
+                            "type": "array"
+                        },
+                        "type": "array",
+                        "title": "Matrix",
+                        "description": "2x2 matrix: [[True REAL, False FAKE], [False REAL, True FAKE]]"
+                    },
+                    "total_evaluated": {
+                        "type": "integer",
+                        "title": "Total Evaluated"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "model_name",
+                    "matrix",
+                    "total_evaluated"
+                ],
+                "title": "ConfusionMatrixResponse"
+            },
+            "DetailedExplanationResponse": {
+                "properties": {
+                    "predicted_label": {
+                        "type": "string",
+                        "title": "Predicted Label"
+                    },
+                    "model_name": {
+                        "type": "string",
+                        "title": "Model Name"
+                    },
+                    "model_score": {
+                        "type": "number",
+                        "title": "Model Score"
+                    },
+                    "explanation_method": {
+                        "type": "string",
+                        "title": "Explanation Method",
+                        "description": "Explanation methodology used (e.g. TF-IDF feature attribution)"
+                    },
+                    "attribution_notes": {
+                        "type": "string",
+                        "title": "Attribution Notes"
+                    },
+                    "top_fake_terms": {
+                        "items": {
+                            "$ref": "#/components/schemas/InfluentialTerm"
+                        },
+                        "type": "array",
+                        "title": "Top Fake Terms",
+                        "description": "Terms pushing towards FAKE"
+                    },
+                    "top_real_terms": {
+                        "items": {
+                            "$ref": "#/components/schemas/InfluentialTerm"
+                        },
+                        "type": "array",
+                        "title": "Top Real Terms",
+                        "description": "Terms pushing towards REAL"
+                    },
+                    "disclaimer": {
+                        "type": "string",
+                        "title": "Disclaimer"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "predicted_label",
+                    "model_name",
+                    "model_score",
+                    "explanation_method",
+                    "attribution_notes",
+                    "disclaimer"
+                ],
+                "title": "DetailedExplanationResponse"
+            },
+            "ExplanationRequest": {
+                "properties": {
+                    "headline": {
+                        "type": "string",
+                        "title": "Headline",
+                        "description": "Headline of the article to explain"
+                    },
+                    "body_text": {
+                        "type": "string",
+                        "title": "Body Text",
+                        "description": "Body of the article to explain"
+                    },
+                    "model": {
+                        "anyOf": [
+                            {
+                                "type": "string",
+                                "enum": [
+                                    "ensemble",
+                                    "logistic_regression",
+                                    "naive_bayes",
+                                    "linear_svm",
+                                    "random_forest"
+                                ]
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Model",
+                        "description": "Classifier for term attribution context",
+                        "default": "ensemble"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "headline",
+                    "body_text"
+                ],
+                "title": "ExplanationRequest"
+            },
+            "FairnessResponse": {
+                "properties": {
+                    "political_lean_metrics": {
+                        "items": {
+                            "$ref": "#/components/schemas/SubgroupFairnessMetric"
+                        },
+                        "type": "array",
+                        "title": "Political Lean Metrics"
+                    },
+                    "topic_metrics": {
+                        "items": {
+                            "$ref": "#/components/schemas/SubgroupFairnessMetric"
+                        },
+                        "type": "array",
+                        "title": "Topic Metrics"
+                    },
+                    "evaluation_notes": {
+                        "type": "string",
+                        "title": "Evaluation Notes"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "political_lean_metrics",
+                    "topic_metrics",
+                    "evaluation_notes"
+                ],
+                "title": "FairnessResponse"
+            },
+            "HTTPValidationError": {
+                "properties": {
+                    "detail": {
+                        "items": {
+                            "$ref": "#/components/schemas/ValidationError"
+                        },
+                        "type": "array",
+                        "title": "Detail"
+                    }
+                },
+                "type": "object",
+                "title": "HTTPValidationError"
+            },
+            "HealthResponse": {
+                "properties": {
+                    "status": {
+                        "type": "string",
+                        "title": "Status"
+                    },
+                    "models_loaded": {
+                        "type": "boolean",
+                        "title": "Models Loaded"
+                    },
+                    "available_models": {
+                        "items": {
+                            "type": "string"
+                        },
+                        "type": "array",
+                        "title": "Available Models"
+                    },
+                    "model_version": {
+                        "anyOf": [
+                            {
+                                "type": "string"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Model Version"
+                    },
+                    "error_detail": {
+                        "anyOf": [
+                            {
+                                "type": "string"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Error Detail"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "status",
+                    "models_loaded",
+                    "available_models"
+                ],
+                "title": "HealthResponse"
+            },
+            "InfluentialTerm": {
+                "properties": {
+                    "term": {
+                        "type": "string",
+                        "title": "Term"
+                    },
+                    "weight": {
+                        "type": "number",
+                        "title": "Weight",
+                        "description": "Signed contribution; positive pushes towards FAKE, negative pushes towards REAL"
+                    },
+                    "direction": {
+                        "type": "string",
+                        "title": "Direction",
+                        "description": "'FAKE' or 'REAL'"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "term",
+                    "weight",
+                    "direction"
+                ],
+                "title": "InfluentialTerm"
+            },
+            "MetricDetail": {
+                "properties": {
+                    "accuracy": {
+                        "type": "number",
+                        "title": "Accuracy"
+                    },
+                    "precision": {
+                        "type": "number",
+                        "title": "Precision"
+                    },
+                    "recall": {
+                        "type": "number",
+                        "title": "Recall"
+                    },
+                    "f1": {
+                        "type": "number",
+                        "title": "F1"
+                    },
+                    "roc_auc": {
+                        "type": "number",
+                        "title": "Roc Auc"
+                    },
+                    "cv_f1_mean": {
+                        "anyOf": [
+                            {
+                                "type": "number"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Cv F1 Mean"
+                    },
+                    "cv_f1_std": {
+                        "anyOf": [
+                            {
+                                "type": "number"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Cv F1 Std"
+                    },
+                    "per_class": {
+                        "anyOf": [
+                            {
+                                "additionalProperties": {
+                                    "additionalProperties": {
+                                        "type": "number"
+                                    },
+                                    "type": "object"
+                                },
+                                "type": "object"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Per Class"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "accuracy",
+                    "precision",
+                    "recall",
+                    "f1",
+                    "roc_auc"
+                ],
+                "title": "MetricDetail"
+            },
+            "MetricsResponse": {
+                "properties": {
+                    "models": {
+                        "additionalProperties": {
+                            "$ref": "#/components/schemas/MetricDetail"
+                        },
+                        "type": "object",
+                        "title": "Models"
+                    },
+                    "dataset_summary": {
+                        "additionalProperties": true,
+                        "type": "object",
+                        "title": "Dataset Summary"
+                    },
+                    "evaluation_test_size": {
+                        "type": "integer",
+                        "title": "Evaluation Test Size"
+                    },
+                    "model_version": {
+                        "type": "string",
+                        "title": "Model Version"
+                    },
+                    "disclaimer": {
+                        "type": "string",
+                        "title": "Disclaimer"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "models",
+                    "dataset_summary",
+                    "evaluation_test_size",
+                    "model_version",
+                    "disclaimer"
+                ],
+                "title": "MetricsResponse"
+            },
+            "NewsAnalysisRequest": {
+                "properties": {
+                    "headline": {
+                        "type": "string",
+                        "title": "Headline",
+                        "description": "Headline or title of the news article"
+                    },
+                    "body_text": {
+                        "type": "string",
+                        "title": "Body Text",
+                        "description": "Full body text of the news article"
+                    },
+                    "model": {
+                        "anyOf": [
+                            {
+                                "type": "string",
+                                "enum": [
+                                    "ensemble",
+                                    "logistic_regression",
+                                    "naive_bayes",
+                                    "linear_svm",
+                                    "random_forest"
+                                ]
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Model",
+                        "description": "Classifier to use: ensemble, logistic_regression, naive_bayes, linear_svm, random_forest",
+                        "default": "ensemble"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "headline",
+                    "body_text"
+                ],
+                "title": "NewsAnalysisRequest"
+            },
+            "PredictionResponse": {
+                "properties": {
+                    "predicted_label": {
+                        "type": "string",
+                        "title": "Predicted Label",
+                        "description": "'REAL' or 'FAKE'"
+                    },
+                    "model_name": {
+                        "type": "string",
+                        "title": "Model Name"
+                    },
+                    "model_score": {
+                        "type": "number",
+                        "title": "Model Score",
+                        "description": "Model confidence / probability for the predicted class [0.0 - 1.0]. Represents linguistic pattern match score, NOT verified factual truth."
+                    },
+                    "class_probabilities": {
+                        "additionalProperties": {
+                            "type": "number"
+                        },
+                        "type": "object",
+                        "title": "Class Probabilities",
+                        "description": "Scores / estimated probabilities for each class (REAL, FAKE)"
+                    },
+                    "explanation": {
+                        "type": "string",
+                        "title": "Explanation",
+                        "description": "Human-readable summary of the prediction result"
+                    },
+                    "top_terms": {
+                        "items": {
+                            "$ref": "#/components/schemas/InfluentialTerm"
+                        },
+                        "type": "array",
+                        "title": "Top Terms",
+                        "description": "Top terms contributing to the prediction"
+                    },
+                    "disclaimer": {
+                        "type": "string",
+                        "title": "Disclaimer",
+                        "description": "Safety and limitations disclaimer",
+                        "default": "Automated NLP classification is an assistive decision-support tool based on linguistic patterns, not a verified fact check. Human editorial review is required before taking any action."
+                    },
+                    "model_version": {
+                        "type": "string",
+                        "title": "Model Version"
+                    },
+                    "word_count": {
+                        "type": "integer",
+                        "title": "Word Count"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "predicted_label",
+                    "model_name",
+                    "model_score",
+                    "class_probabilities",
+                    "explanation",
+                    "model_version",
+                    "word_count"
+                ],
+                "title": "PredictionResponse"
+            },
+            "SampleArticle": {
+                "properties": {
+                    "article_id": {
+                        "type": "string",
+                        "title": "Article Id"
+                    },
+                    "headline": {
+                        "type": "string",
+                        "title": "Headline"
+                    },
+                    "body_text": {
+                        "type": "string",
+                        "title": "Body Text"
+                    },
+                    "topic": {
+                        "type": "string",
+                        "title": "Topic"
+                    },
+                    "word_count": {
+                        "type": "integer",
+                        "title": "Word Count"
+                    },
+                    "actual_label": {
+                        "anyOf": [
+                            {
+                                "type": "string"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Actual Label"
+                    },
+                    "historical_prediction": {
+                        "anyOf": [
+                            {
+                                "type": "string"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Historical Prediction"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "article_id",
+                    "headline",
+                    "body_text",
+                    "topic",
+                    "word_count"
+                ],
+                "title": "SampleArticle"
+            },
+            "SamplesListResponse": {
+                "properties": {
+                    "total_count": {
+                        "type": "integer",
+                        "title": "Total Count"
+                    },
+                    "page": {
+                        "type": "integer",
+                        "title": "Page"
+                    },
+                    "page_size": {
+                        "type": "integer",
+                        "title": "Page Size"
+                    },
+                    "samples": {
+                        "items": {
+                            "$ref": "#/components/schemas/SampleArticle"
+                        },
+                        "type": "array",
+                        "title": "Samples"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "total_count",
+                    "page",
+                    "page_size",
+                    "samples"
+                ],
+                "title": "SamplesListResponse"
+            },
+            "SubgroupFairnessMetric": {
+                "properties": {
+                    "subgroup": {
+                        "type": "string",
+                        "title": "Subgroup"
+                    },
+                    "sample_count": {
+                        "type": "integer",
+                        "title": "Sample Count"
+                    },
+                    "accuracy": {
+                        "anyOf": [
+                            {
+                                "type": "number"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Accuracy"
+                    },
+                    "false_positive_rate": {
+                        "anyOf": [
+                            {
+                                "type": "number"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "False Positive Rate"
+                    },
+                    "false_negative_rate": {
+                        "anyOf": [
+                            {
+                                "type": "number"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "False Negative Rate"
+                    },
+                    "precision": {
+                        "anyOf": [
+                            {
+                                "type": "number"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Precision"
+                    },
+                    "recall": {
+                        "anyOf": [
+                            {
+                                "type": "number"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Recall"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "subgroup",
+                    "sample_count"
+                ],
+                "title": "SubgroupFairnessMetric"
+            },
+            "ValidationError": {
+                "properties": {
+                    "loc": {
+                        "items": {
+                            "anyOf": [
+                                {
+                                    "type": "string"
+                                },
+                                {
+                                    "type": "integer"
+                                }
+                            ]
+                        },
+                        "type": "array",
+                        "title": "Location"
+                    },
+                    "msg": {
+                        "type": "string",
+                        "title": "Message"
+                    },
+                    "type": {
+                        "type": "string",
+                        "title": "Error Type"
+                    },
+                    "input": {
+                        "title": "Input"
+                    },
+                    "ctx": {
+                        "type": "object",
+                        "title": "Context"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "loc",
+                    "msg",
+                    "type"
+                ],
+                "title": "ValidationError"
+            }
+        }
+    }
+}

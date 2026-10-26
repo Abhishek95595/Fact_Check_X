@@ -1,0 +1,11 @@
+column_name,data_type,sample_value,description,nullable
+article_id,string,A00001,Unique identifier of the article (A + 5-digit number).,No
+headline,string,SHOCKING: what they are hiding about the housing market...,Title/headline of the news article.,No
+body_text,string,Officials said on 12 March 2025 that inflation is under review...,Full body text of the article.,No
+source,string,Meridian Times,Name of the (fictional) publishing outlet. Excluded from model features to avoid shortcut learning.,No
+publish_date,date (YYYY-MM-DD),2024-03-12,Date on which the article was published; range 2024-01-01 to 2025-09-30.,No
+label,categorical (REAL/FAKE),FAKE,Target variable: whether the article is real or fake news (label noise of about 4% was added to mimic annotation errors).,No
+political_lean,categorical (left/center/right),center,"Political leaning attributed to the article. Used for fairness/bias analysis only, not as a model feature.",No
+topic,categorical,economy,"Subject area of the article: economy, health, politics, technology, sports or environment.",No
+clean_text,string,officials said march inflation review...,"Lower-cased headline + body with URLs, digits and punctuation removed and whitespace normalised; this is the model input.",No
+word_count,integer,78,Number of words in clean_text.,No

@@ -1,0 +1,88 @@
+{
+  "political_lean_metrics": [
+    {
+      "subgroup": "center",
+      "sample_count": 62,
+      "accuracy": 0.9194,
+      "false_positive_rate": 0.0638,
+      "false_negative_rate": 0.1333,
+      "precision": 0.8125,
+      "recall": 0.8667
+    },
+    {
+      "subgroup": "left",
+      "sample_count": 84,
+      "accuracy": 0.8571,
+      "false_positive_rate": 0.175,
+      "false_negative_rate": 0.1136,
+      "precision": 0.8478,
+      "recall": 0.8864
+    },
+    {
+      "subgroup": "right",
+      "sample_count": 91,
+      "accuracy": 0.8791,
+      "false_positive_rate": 0.2,
+      "false_negative_rate": 0.0909,
+      "precision": 0.9231,
+      "recall": 0.9091
+    }
+  ],
+  "topic_metrics": [
+    {
+      "subgroup": "economy",
+      "sample_count": 41,
+      "accuracy": 0.878,
+      "false_positive_rate": 0.1579,
+      "false_negative_rate": 0.0909,
+      "precision": 0.8696,
+      "recall": 0.9091
+    },
+    {
+      "subgroup": "environment",
+      "sample_count": 38,
+      "accuracy": 0.9211,
+      "false_positive_rate": 0.087,
+      "false_negative_rate": 0.0667,
+      "precision": 0.875,
+      "recall": 0.9333
+    },
+    {
+      "subgroup": "health",
+      "sample_count": 46,
+      "accuracy": 0.9565,
+      "false_positive_rate": 0.0526,
+      "false_negative_rate": 0.037,
+      "precision": 0.963,
+      "recall": 0.963
+    },
+    {
+      "subgroup": "politics",
+      "sample_count": 38,
+      "accuracy": 0.8158,
+      "false_positive_rate": 0.125,
+      "false_negative_rate": 0.2273,
+      "precision": 0.8947,
+      "recall": 0.7727
+    },
+    {
+      "subgroup": "sports",
+      "sample_count": 34,
+      "accuracy": 0.9118,
+      "false_positive_rate": 0.125,
+      "false_negative_rate": 0.0556,
+      "precision": 0.8947,
+      "recall": 0.9444
+    },
+    {
+      "subgroup": "technology",
+      "sample_count": 40,
+      "accuracy": 0.8,
+      "false_positive_rate": 0.2632,
+      "false_negative_rate": 0.1429,
+      "precision": 0.7826,
+      "recall": 0.8571
+    }
+  ],
+  "evaluation_notes": "Subgroup metrics evaluated on 237 held-out test samples. Neither political_lean nor topic were provided as features to the models. Subgroup disparities are diagnostic indicators for human reviewers rather than proof of intentional bias."
+}

@@ -1,0 +1,117 @@
+{
+  "logistic_regression": {
+    "accuracy": 0.8565,
+    "precision": 0.864,
+    "recall": 0.864,
+    "f1": 0.864,
+    "roc_auc": 0.9069,
+    "cv_f1_mean": 0.894,
+    "cv_f1_std": 0.0173,
+    "per_class": {
+      "REAL": {
+        "precision": 0.8482,
+        "recall": 0.8482,
+        "f1": 0.8482,
+        "support": 112.0
+      },
+      "FAKE": {
+        "precision": 0.864,
+        "recall": 0.864,
+        "f1": 0.864,
+        "support": 125.0
+      }
+    }
+  },
+  "naive_bayes": {
+    "accuracy": 0.8734,
+    "precision": 0.8862,
+    "recall": 0.872,
+    "f1": 0.879,
+    "roc_auc": 0.9111,
+    "cv_f1_mean": 0.8891,
+    "cv_f1_std": 0.0162,
+    "per_class": {
+      "REAL": {
+        "precision": 0.8596,
+        "recall": 0.875,
+        "f1": 0.8673,
+        "support": 112.0
+      },
+      "FAKE": {
+        "precision": 0.8862,
+        "recall": 0.872,
+        "f1": 0.879,
+        "support": 125.0
+      }
+    }
+  },
+  "linear_svm": {
+    "accuracy": 0.8312,
+    "precision": 0.8346,
+    "recall": 0.848,
+    "f1": 0.8413,
+    "roc_auc": 0.9031,
+    "cv_f1_mean": 0.8855,
+    "cv_f1_std": 0.0135,
+    "per_class": {
+      "REAL": {
+        "precision": 0.8273,
+        "recall": 0.8125,
+        "f1": 0.8198,
+        "support": 112.0
+      },
+      "FAKE": {
+        "precision": 0.8346,
+        "recall": 0.848,
+        "f1": 0.8413,
+        "support": 125.0
+      }
+    }
+  },
+  "random_forest": {
+    "accuracy": 0.8354,
+    "precision": 0.8525,
+    "recall": 0.832,
+    "f1": 0.8421,
+    "roc_auc": 0.8976,
+    "cv_f1_mean": 0.8691,
+    "cv_f1_std": 0.0044,
+    "per_class": {
+      "REAL": {
+        "precision": 0.8174,
+        "recall": 0.8393,
+        "f1": 0.8282,
+        "support": 112.0
+      },
+      "FAKE": {
+        "precision": 0.8525,
+        "recall": 0.832,
+        "f1": 0.8421,
+        "support": 125.0
+      }
+    }
+  },
+  "ensemble": {
+    "accuracy": 0.8819,
+    "precision": 0.8819,
+    "recall": 0.896,
+    "f1": 0.8889,
+    "roc_auc": 0.9099,
+    "cv_f1_mean": 0.8909,
+    "cv_f1_std": 0.0215,
+    "per_class": {
+      "REAL": {
+        "precision": 0.8818,
+        "recall": 0.8661,
+        "f1": 0.8739,
+        "support": 112.0
+      },
+      "FAKE": {
+        "precision": 0.8819,
+        "recall": 0.896,
+        "f1": 0.8889,
+        "support": 125.0
+      }
+    }
+  }
+}
